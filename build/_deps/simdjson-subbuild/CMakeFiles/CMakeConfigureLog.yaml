@@ -1,0 +1,173 @@
+
+---
+events:
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/CMakeDetermineSystem.cmake:12 (find_program)"
+      - "CMakeLists.txt:16 (project)"
+    mode: "program"
+    variable: "CMAKE_UNAME"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "FIRST"
+      SearchAppBundle: "FIRST"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "uname"
+    candidate_directories:
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin/"
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin/"
+      - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin/"
+      - "/usr/bin/"
+      - "/opt/local/bin/"
+      - "/opt/local/sbin/"
+      - "/opt/homebrew/bin/"
+      - "/opt/homebrew/sbin/"
+      - "/usr/local/bin/"
+      - "/System/Cryptexes/App/usr/bin/"
+      - "/bin/"
+      - "/usr/sbin/"
+      - "/sbin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
+      - "/pkg/env/global/bin/"
+      - "/Library/Apple/usr/bin/"
+      - "/usr/local/share/dotnet/"
+      - "/Users/sukantpatra/.dotnet/tools/"
+      - "/Library/Frameworks/Mono.framework/Versions/Current/Commands/"
+      - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/Users/sukantpatra/.rvm/bin/"
+    searched_directories:
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin/uname"
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin/uname"
+      - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin/uname"
+    found: "/usr/bin/uname"
+    search_context:
+      ENV{PATH}:
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin"
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin"
+        - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin"
+        - "/usr/bin"
+        - "/opt/local/bin"
+        - "/opt/local/sbin"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/pkg/env/global/bin"
+        - "/Library/Apple/usr/bin"
+        - "/usr/local/share/dotnet"
+        - "~/.dotnet/tools"
+        - "/Library/Frameworks/Mono.framework/Versions/Current/Commands"
+        - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin"
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin"
+        - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin"
+        - "/opt/local/bin"
+        - "/opt/local/sbin"
+        - "/Users/sukantpatra/.rvm/bin"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:16 (project)"
+    message: |
+      The system is: Darwin - 25.5.0 - arm64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "/opt/homebrew/share/cmake/Modules/Platform/Darwin.cmake:66 (find_program)"
+      - "/opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInformation.cmake:32 (include)"
+      - "CMakeLists.txt:16 (project)"
+    mode: "program"
+    variable: "CMAKE_INSTALL_NAME_TOOL"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "FIRST"
+      SearchAppBundle: "FIRST"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "install_name_tool"
+    candidate_directories:
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin/"
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin/"
+      - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin/"
+      - "/usr/bin/"
+      - "/opt/local/bin/"
+      - "/opt/local/sbin/"
+      - "/opt/homebrew/bin/"
+      - "/opt/homebrew/sbin/"
+      - "/usr/local/bin/"
+      - "/System/Cryptexes/App/usr/bin/"
+      - "/bin/"
+      - "/usr/sbin/"
+      - "/sbin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
+      - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
+      - "/pkg/env/global/bin/"
+      - "/Library/Apple/usr/bin/"
+      - "/usr/local/share/dotnet/"
+      - "/Users/sukantpatra/.dotnet/tools/"
+      - "/Library/Frameworks/Mono.framework/Versions/Current/Commands/"
+      - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/Users/sukantpatra/.rvm/bin/"
+    searched_directories:
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin/install_name_tool"
+      - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin/install_name_tool"
+      - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin/install_name_tool"
+    found: "/usr/bin/install_name_tool"
+    search_context:
+      ENV{PATH}:
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin"
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin"
+        - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin"
+        - "/usr/bin"
+        - "/opt/local/bin"
+        - "/opt/local/sbin"
+        - "/opt/homebrew/bin"
+        - "/opt/homebrew/sbin"
+        - "/usr/local/bin"
+        - "/System/Cryptexes/App/usr/bin"
+        - "/usr/bin"
+        - "/bin"
+        - "/usr/sbin"
+        - "/sbin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
+        - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
+        - "/pkg/env/global/bin"
+        - "/Library/Apple/usr/bin"
+        - "/usr/local/share/dotnet"
+        - "~/.dotnet/tools"
+        - "/Library/Frameworks/Mono.framework/Versions/Current/Commands"
+        - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/Users/sukantpatra/Library/Application Support/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7/bin"
+        - "/Users/sukantpatra/.rvm/gems/ruby-3.3.7@global/bin"
+        - "/Users/sukantpatra/.rvm/rubies/ruby-3.3.7/bin"
+        - "/opt/local/bin"
+        - "/opt/local/sbin"
+        - "/Users/sukantpatra/.rvm/bin"
+      CMAKE_INSTALL_PREFIX: "/usr/local"
+...
