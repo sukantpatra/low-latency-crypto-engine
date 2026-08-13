@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/sukantpatra/HFT_Basics_Mac/BinanceSession.cpp" "CMakeFiles/HFT_Basics.dir/BinanceSession.cpp.o" "gcc" "CMakeFiles/HFT_Basics.dir/BinanceSession.cpp.o.d"
-  "/Users/sukantpatra/HFT_Basics_Mac/Parser.cpp" "CMakeFiles/HFT_Basics.dir/Parser.cpp.o" "gcc" "CMakeFiles/HFT_Basics.dir/Parser.cpp.o.d"
-  "/Users/sukantpatra/HFT_Basics_Mac/Spinlock.cpp" "CMakeFiles/HFT_Basics.dir/Spinlock.cpp.o" "gcc" "CMakeFiles/HFT_Basics.dir/Spinlock.cpp.o.d"
-  "/Users/sukantpatra/HFT_Basics_Mac/main.cpp" "CMakeFiles/HFT_Basics.dir/main.cpp.o" "gcc" "CMakeFiles/HFT_Basics.dir/main.cpp.o.d"
-  "/Users/sukantpatra/HFT_Basics_Mac/simdjson.cpp" "CMakeFiles/HFT_Basics.dir/simdjson.cpp.o" "gcc" "CMakeFiles/HFT_Basics.dir/simdjson.cpp.o.d"
+  "D:/CppProjects/low-latency-crypto-engine/BinanceSession.cpp" "CMakeFiles/HFT_Basics.dir/BinanceSession.cpp.obj" "gcc" "CMakeFiles/HFT_Basics.dir/BinanceSession.cpp.obj.d"
+  "D:/CppProjects/low-latency-crypto-engine/Parser.cpp" "CMakeFiles/HFT_Basics.dir/Parser.cpp.obj" "gcc" "CMakeFiles/HFT_Basics.dir/Parser.cpp.obj.d"
+  "D:/CppProjects/low-latency-crypto-engine/Spinlock.cpp" "CMakeFiles/HFT_Basics.dir/Spinlock.cpp.obj" "gcc" "CMakeFiles/HFT_Basics.dir/Spinlock.cpp.obj.d"
+  "D:/CppProjects/low-latency-crypto-engine/main.cpp" "CMakeFiles/HFT_Basics.dir/main.cpp.obj" "gcc" "CMakeFiles/HFT_Basics.dir/main.cpp.obj.d"
+  "D:/CppProjects/low-latency-crypto-engine/simdjson.cpp" "CMakeFiles/HFT_Basics.dir/simdjson.cpp.obj" "gcc" "CMakeFiles/HFT_Basics.dir/simdjson.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

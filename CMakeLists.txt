@@ -41,3 +41,8 @@ target_link_libraries(HFT_Basics
     OpenSSL::SSL 
     OpenSSL::Crypto
 )
+
+# --- WINDOWS SPECIFIC LIBRARIES ---
+if(WIN32)
+    target_link_libraries(HFT_Basics PRIVATE ws2_32 wsock32)
+endif()
