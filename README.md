@@ -1,13 +1,45 @@
-# low-latency-crypto-engine
-A low-latency, zero-copy Binance order book engine written in C++ optimized for Apple Silicon.
+# Low-Latency Crypto Engine
 
-## Performance & Benchmarks
-This engine was designed with strict low-latency (HFT) C++ principles. On Apple Silicon (M-Series), the hot-path achieves a complete network-to-memory state update in **38µs to 260µs** (payload dependent).
+A high-frequency trading (HFT) order book engine built in C++, designed to process live Binance Level 2 WebSocket market data with sub-microsecond latency.
 
-### Latency Optimizations Implemented:
-* **True Zero-Copy Networking:** Boost.Beast's raw socket buffers are fed directly into `simdjson`'s hardware registers, padding included. The JSON is parsed without a single `malloc` or `std::string` copy.
-* **Cache-Friendly Data Structures:** Standard pointer-chasing `std::map` red-black trees were replaced with `boost::container::flat_map`. By maintaining a strictly contiguous array, the CPU hardware prefetcher loads the order book into L1 cache, turning O(N) memory shifts into sub-nanosecond operations.
-* **Asymmetric OS Scheduling (QoS):** 
-  * The network event loop is tagged with `QOS_CLASS_USER_INTERACTIVE` to aggressively pin the hot path to macOS **Performance (P) Cores**.
-  * The UI/Console rendering thread is tagged with `QOS_CLASS_BACKGROUND` to banish blocking I/O system calls to **Efficiency (E) Cores**.
-* **User-Space Synchronization:** OS-level `std::mutex` locks were stripped from the hot path and replaced with a custom **Spinlock** utilizing `std::atomic_flag` and ARM `yield` instructions, preventing the kernel from ever putting the network thread to sleep.
+## ⚡ Performance & Architecture
+This engine is heavily optimized for zero-contention and maximum CPU cache efficiency, processing order updates in the **~600ns to 1.4µs** range per order.
+
+* **Lock-Free Hot Path:** Completely eliminated mutexes and spinlocks. Cross-thread metric tracking is handled via `std::atomic` with `std::memory_order_relaxed` to prevent cache-line bouncing.
+* **O(1) Tombstoning:** Order book deletions are handled via "Soft Deletes" (Quantity = 0.0) instead of `erase()` operations. This prevents O(N) memory shifts in the underlying `boost::container::flat_map`, ensuring insertion and deletion times remain deterministic.
+* **Zero-Copy JSON Parsing:** Utilizes `simdjson` (SIMD-accelerated JSON parser) to parse streaming WebSocket payloads directly from the buffer without copying memory.
+
+## 🛠️ Tech Stack
+* **C++20**
+* **Boost.Asio / Boost.Beast** (Asynchronous Networking & WebSockets)
+* **Boost.Container** (`flat_map` for cache-friendly contiguous memory)
+* **simdjson** (SIMD-accelerated JSON parsing)
+* **OpenSSL** (Secure WSS connections)
+* **CMake** (Cross-platform build system)
+
+## 🚀 Build Instructions
+
+This project supports cross-compilation on both **macOS (Apple Silicon/Intel)** and **Windows (MSYS2/MinGW)**.
+### macOS
+```bash
+# Generate the build environment
+cmake -B build
+
+# Compile the engine
+cmake --build build -j $(sysctl -n hw.ncpu)
+
+# Run
+./build/HFT_Basics
+```
+### Windows (MSYS2 / UCRT64)
+Ensure you have the MSYS2 UCRT64 environment installed with GCC, CMake, and Boost.
+```Powershell
+# Generate the build environment
+cmake -B build -G "MinGW Makefiles"
+
+# Compile the engine
+cmake --build build -j 16
+
+# Run
+.\build\HFT_Basics.exe
+```
