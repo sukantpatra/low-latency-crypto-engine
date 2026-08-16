@@ -8,16 +8,12 @@
 #include <boost/asio/connect.hpp>
 #include <boost/asio/ssl/stream.hpp>
 #include <atomic>
-#include "Spinlock.hpp"
+#include "Metrics.hpp"
 
 namespace beast = boost::beast;
 namespace http = beast::http;
 namespace net = boost::asio;
 namespace ssl = boost::asio::ssl;
-
-
-Spinlock book_spinlock; 
-std::atomic<uint64_t> last_latency_ns{0};
 
 struct OrderBookEntry 
     {
@@ -29,6 +25,9 @@ boost::container::flat_map<double, double, std::greater<double>> bids; // Key: P
 boost::container::flat_map<double, double, std::less<double>> asks; // Key: Price, Value: Quantity
 
 uint64_t currentUpdateId = 0;
+std::atomic<uint64_t> total_latency_ns{0};
+std::atomic<uint64_t> total_messages_processed{0};
+std::atomic<uint64_t> total_orders_processed{0};
 
 enum class OrderSide 
 {
@@ -47,29 +46,23 @@ void ShowOrderBook(const T& book, const std::string& title) {
 }
 
 void UILoop() {
+#ifdef __APPLE__
     pthread_set_qos_class_self_np(QOS_CLASS_BACKGROUND, 0);
+#endif
 
     while (true) {
-        std::this_thread::sleep_for(std::chrono::milliseconds(100)); 
-        
-        boost::container::flat_map<double, double, std::greater<double>> bids_copy;
-        boost::container::flat_map<double, double, std::less<double>> asks_copy;
-        uint64_t current_latency = 0;
-        
-        {
-            // Drop-in replacement! lock_guard uses our custom Spinlock now.
-            std::lock_guard<Spinlock> lock(book_spinlock); 
-            bids_copy = bids;
-            asks_copy = asks;
-            current_latency = last_latency_ns.load();
-        }
-        //std::cout << "\033[2J\033[1;1H"; 
-        //std::cout << "==========================================\n";
-        std::cout << " HFT ENGINE LIVE | LATENCY: " << current_latency << " ns\n";
-        //std::cout << "==========================================\n";
-        
-        //ShowOrderBook(bids_copy, "Bids");
-        //ShowOrderBook(asks_copy, "Asks");
+        // Sleep for exactly 1 second
+        std::this_thread::sleep_for(std::chrono::seconds(1));
+
+        // Atomically grab the current values and reset them to 0 instantly
+        //uint64_t msgs = total_messages_processed.exchange(0, std::memory_order_relaxed);
+        uint64_t total_ns = total_latency_ns.exchange(0, std::memory_order_relaxed);
+        uint64_t orders = total_orders_processed.exchange(0, std::memory_order_relaxed);
+
+        //uint64_t avg_latency = total_ns / msgs;
+        uint64_t avg_order_latency = total_ns / orders;
+
+        std::cout << "--1s Window-- \n Order Processed: " << orders << " Average Order Latency: " << avg_order_latency << " ns\n";
     }
 }
 
@@ -77,18 +70,10 @@ void UpdateBook(OrderSide side, double price, double qty)
 {
     switch (side) {
         case OrderSide::BUY:
-            if (qty > 0) {
-                bids[price] = qty;
-            } else {
-                bids.erase(price);
-            }
+            bids[price] = qty;
             break;
         case OrderSide::SELL:
-            if (qty > 0) {
-                asks[price] = qty;
-            } else {
-                asks.erase(price);
-            }
+            asks[price] = qty;
             break;
         default:
             std::cerr << "Invalid side: " << (side == OrderSide::BUY ? "BUY" : "SELL") << std::endl;

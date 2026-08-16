@@ -7,16 +7,18 @@ enum class OrderSide { BUY, SELL };
 extern void UpdateBook(OrderSide side, double price, double qty);
 extern uint64_t currentUpdateId;
 
-void Parser::ParseJson(const char* jsonStr, size_t length, size_t capacity)
+uint64_t Parser::ParseJson(const char* jsonStr, size_t length, size_t capacity)
 {
     simdjson::ondemand::document doc = parser.iterate(jsonStr, length, capacity);
     uint64_t updateId = doc["u"].get_uint64();
     if(updateId <= currentUpdateId) {
         // Ignore this update as it's older than the current state
-        return;
+        return 0;
     }
 
     currentUpdateId = updateId;
+
+    uint64_t orderCount = 0;
 
     for(simdjson::ondemand::array bid : doc["b"])
     {
@@ -30,6 +32,7 @@ void Parser::ParseJson(const char* jsonStr, size_t length, size_t capacity)
         double qty;
         std::from_chars(qtyStr.data(), qtyStr.data() + qtyStr.size(), qty);
         UpdateBook(OrderSide::BUY, price, qty);
+        orderCount++;
     }
 
     for(simdjson::ondemand::array ask : doc["a"])
@@ -44,9 +47,10 @@ void Parser::ParseJson(const char* jsonStr, size_t length, size_t capacity)
         double qty;
         std::from_chars(qtyStr.data(), qtyStr.data() + qtyStr.size(), qty);
         UpdateBook(OrderSide::SELL, price, qty);
+        orderCount++;
     }
 
-
+    return orderCount;
 }
 
 void Parser::ParseSnapshotJson(std::string_view jsonStr)

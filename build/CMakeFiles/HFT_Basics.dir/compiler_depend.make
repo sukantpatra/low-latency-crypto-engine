@@ -1189,8 +1189,8 @@ CMakeFiles/HFT_Basics.dir/BinanceSession.cpp.o: /Users/sukantpatra/HFT_Basics_Ma
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h \
   /Users/sukantpatra/HFT_Basics_Mac/BinanceSession.hpp \
+  /Users/sukantpatra/HFT_Basics_Mac/Metrics.hpp \
   /Users/sukantpatra/HFT_Basics_Mac/Parser.hpp \
-  /Users/sukantpatra/HFT_Basics_Mac/Spinlock.hpp \
   /Users/sukantpatra/HFT_Basics_Mac/simdjson.h \
   /opt/homebrew/include/boost/asio/any_io_executor.hpp \
   /opt/homebrew/include/boost/asio/append.hpp \
@@ -4766,8 +4766,8 @@ CMakeFiles/HFT_Basics.dir/main.cpp.o: /Users/sukantpatra/HFT_Basics_Mac/main.cpp
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h \
   /Users/sukantpatra/HFT_Basics_Mac/BinanceSession.hpp \
+  /Users/sukantpatra/HFT_Basics_Mac/Metrics.hpp \
   /Users/sukantpatra/HFT_Basics_Mac/Parser.hpp \
-  /Users/sukantpatra/HFT_Basics_Mac/Spinlock.hpp \
   /Users/sukantpatra/HFT_Basics_Mac/simdjson.h \
   /opt/homebrew/include/boost/asio/any_io_executor.hpp \
   /opt/homebrew/include/boost/asio/append.hpp \
@@ -8376,12 +8376,6 @@ CMakeFiles/HFT_Basics.dir/simdjson.cpp.o: /Users/sukantpatra/HFT_Basics_Mac/simd
 
 /Users/sukantpatra/HFT_Basics_Mac/simdjson.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_unsigned.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/monthday.h:
-
-/Users/sukantpatra/HFT_Basics_Mac/Spinlock.hpp:
-
 /opt/homebrew/include/boost/beast/http.hpp:
 
 /Users/sukantpatra/HFT_Basics_Mac/Parser.hpp:
@@ -8697,6 +8691,8 @@ CMakeFiles/HFT_Basics.dir/simdjson.cpp.o: /Users/sukantpatra/HFT_Basics_Mac/simd
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/signal.h:
 
 /opt/homebrew/include/boost/asio/ip/impl/address_v4.hpp:
+
+/Users/sukantpatra/HFT_Basics_Mac/Metrics.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sched.h:
 
@@ -10221,6 +10217,12 @@ CMakeFiles/HFT_Basics.dir/simdjson.cpp.o: /Users/sukantpatra/HFT_Basics_Mac/simd
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_swappable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_floating_point.h:
+
+/Users/sukantpatra/HFT_Basics_Mac/Spinlock.hpp:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_unsigned.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/monthday.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_char.h:
 

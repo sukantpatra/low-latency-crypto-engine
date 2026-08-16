@@ -12,6 +12,6 @@ class Parser {
         simdjson::ondemand::parser parser;
 
     public: 
-        void ParseJson(const char* jsonStr, size_t length, size_t capacity);
+        uint64_t ParseJson(const char* jsonStr, size_t length, size_t capacity);
         void ParseSnapshotJson(std::string_view jsonStr);
 };

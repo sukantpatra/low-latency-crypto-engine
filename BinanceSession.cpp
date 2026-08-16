@@ -3,10 +3,7 @@
 #include <boost/asio/connect.hpp>
 #include "simdjson.h"
 #include <chrono>
-#include "Spinlock.hpp"
-
-extern Spinlock book_spinlock;
-extern std::atomic<uint64_t> last_latency_ns;
+#include "Metrics.hpp"
 
 // Constructor
 BinanceSession::BinanceSession(net::io_context& ioc, ssl::context& ctx)
@@ -80,15 +77,16 @@ void BinanceSession::on_read(beast::error_code ec, std::size_t bytes_transferred
     // --- HOT PATH MEASUREMENT START ---
     auto start_time = std::chrono::high_resolution_clock::now();
 
-    {
-        std::lock_guard<Spinlock> lock(book_spinlock);
-        parser.ParseJson(rawData, length, capacity); 
-    }
-
+    uint64_t orderCount = parser.ParseJson(rawData, length, capacity); 
+    
     auto end_time = std::chrono::high_resolution_clock::now();
     // --- HOT PATH MEASUREMENT END ---
+    auto latency = std::chrono::duration_cast<std::chrono::nanoseconds>(end_time - start_time).count();
 
-    last_latency_ns = std::chrono::duration_cast<std::chrono::nanoseconds>(end_time - start_time).count();
+    // LOCK-FREE METRICS UPDATE
+    total_latency_ns.fetch_add(latency, std::memory_order_relaxed);
+    //total_messages_processed.fetch_add(1, std::memory_order_relaxed);
+    total_orders_processed.fetch_add(orderCount, std::memory_order_relaxed);
 
     buffer_.consume(length); // Clear the buffer after processing
     do_read(); 
