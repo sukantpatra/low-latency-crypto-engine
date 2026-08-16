@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/CppProjects/low-latency-crypto-engine/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
