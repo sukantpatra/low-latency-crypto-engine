@@ -6870,3283 +6870,3283 @@ CMakeFiles/HFT_Basics.dir/simdjson.cpp.o: /Users/sukantpatra/HFT_Basics_Mac/simd
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h
 
 
-/opt/homebrew/include/boost/move/detail/fwd_macros.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/iterator_to_raw_pointer.hpp:
 
-/opt/homebrew/include/boost/move/algo/unique.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/destruct_n.hpp:
 
-/opt/homebrew/include/boost/move/algo/predicate.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/unique.hpp:
 
-/opt/homebrew/include/boost/move/algo/move.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/move.hpp:
 
-/opt/homebrew/include/boost/move/algo/detail/set_difference.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/detail/pdqsort.hpp:
 
-/opt/homebrew/include/boost/move/algo/detail/search.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/detail/merge_sort.hpp:
 
-/opt/homebrew/include/boost/move/algo/detail/merge.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/detail/is_sorted.hpp:
 
-/opt/homebrew/include/boost/move/algo/detail/adaptive_sort_merge.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/detail/insertion_sort.hpp:
 
-/opt/homebrew/include/boost/move/algo/adaptive_merge.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/detail/heap_sort.hpp:
 
-/opt/homebrew/include/boost/move/detail/move_helpers.hpp:
+C:/msys64/ucrt64/include/boost/container/options.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/has_member_function_callable_with.hpp:
+C:/msys64/ucrt64/include/boost/container/flat_map.hpp:
 
-/opt/homebrew/include/boost/container/vector.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/variadic_templates_tools.hpp:
 
-/opt/homebrew/include/boost/container/options.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/value_functors.hpp:
 
-/opt/homebrew/include/boost/container/new_allocator.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/type_traits.hpp:
 
-/opt/homebrew/include/boost/container/flat_map.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/adaptive_merge.hpp:
 
-/opt/homebrew/include/boost/container/detail/version_type.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/operator_new_helpers.hpp:
 
-/opt/homebrew/include/boost/container/detail/value_init.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/min_max.hpp:
 
-/opt/homebrew/include/boost/container/detail/value_functors.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/iterators.hpp:
 
-/opt/homebrew/include/boost/container/detail/std_fwd.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/iterator.hpp:
 
-/opt/homebrew/include/boost/container/detail/placement_new.hpp:
+C:/msys64/ucrt64/include/boost/container/new_allocator.hpp:
 
-/opt/homebrew/include/boost/container/detail/pair.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/is_pair.hpp:
 
-/opt/homebrew/include/boost/container/detail/operator_new_helpers.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/copy_move_algo.hpp:
 
-/opt/homebrew/include/boost/container/detail/min_max.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/construct_in_place.hpp:
 
-/opt/homebrew/include/boost/container/detail/iterators.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/config_end.hpp:
 
-/opt/homebrew/include/boost/container/detail/iterator.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/config_begin.hpp:
 
-/opt/homebrew/include/boost/container/detail/is_sorted.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/allocation_type.hpp:
 
-/opt/homebrew/include/boost/container/detail/is_contiguous_container.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/advanced_insert_int.hpp:
 
-/opt/homebrew/include/boost/container/detail/construct_in_place.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/vector_body_fwd.hpp:
 
-/opt/homebrew/include/boost/container/detail/config_end.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/vector_body.hpp:
 
-/opt/homebrew/include/boost/container/detail/alloc_helpers.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/message_generator_fwd.hpp:
 
-/opt/homebrew/include/boost/container/detail/addressof.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/message_generator.hpp:
 
-/opt/homebrew/include/boost/container/container_fwd.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/message_generator.hpp:
 
-/opt/homebrew/include/boost/container/allocator_traits.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/file_body_win32.hpp:
 
-/opt/homebrew/include/boost/beast/http/vector_body_fwd.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/dynamic_body.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/message_generator.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/basic_file_body_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/file_body_win32.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/basic_file_body.hpp:
 
-/opt/homebrew/include/boost/beast/http/dynamic_body.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/basic_dynamic_body.hpp:
 
-/opt/homebrew/include/boost/beast/http/buffer_body.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_overlapped_ptr.hpp:
 
-/opt/homebrew/include/boost/beast/http/basic_dynamic_body.hpp:
+D:/CppProjects/low-latency-crypto-engine/Spinlock.cpp:
 
-/Users/sukantpatra/HFT_Basics_Mac/Spinlock.cpp:
+D:/CppProjects/low-latency-crypto-engine/Parser.cpp:
 
-/Users/sukantpatra/HFT_Basics_Mac/Parser.cpp:
+D:/CppProjects/low-latency-crypto-engine/simdjson.h:
 
-/opt/homebrew/include/openssl/x509v3err.h:
+D:/CppProjects/low-latency-crypto-engine/BinanceSession.hpp:
 
-/opt/homebrew/include/openssl/x509err.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsavesintrin.h:
 
-/opt/homebrew/include/openssl/x509_vfy.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsaveintrin.h:
 
-/opt/homebrew/include/openssl/x509.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xopintrin.h:
 
-/opt/homebrew/include/openssl/uierr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/x86intrin.h:
 
-/opt/homebrew/include/openssl/ui.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/wmmintrin.h:
 
-/opt/homebrew/include/openssl/stack.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/vaesintrin.h:
 
-/opt/homebrew/include/openssl/sslerr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/usermsrintrin.h:
 
-/opt/homebrew/include/openssl/ssl2.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/tsxldtrkintrin.h:
 
-/opt/homebrew/include/openssl/safestack.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/tmmintrin.h:
 
-/opt/homebrew/include/openssl/rand.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/tbmintrin.h:
 
-/opt/homebrew/include/openssl/opensslconf.h:
+C:/msys64/ucrt64/include/boost/beast/http/span_body.hpp:
 
-/opt/homebrew/include/openssl/objects.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sm4intrin.h:
 
-/opt/homebrew/include/openssl/http.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/shaintrin.h:
 
-/opt/homebrew/include/openssl/hmac.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sha512intrin.h:
 
-/opt/homebrew/include/openssl/evperr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/serializeintrin.h:
 
-/opt/homebrew/include/openssl/evp.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/rtmintrin.h:
 
-/opt/homebrew/include/openssl/err.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/rdseedintrin.h:
 
-/opt/homebrew/include/openssl/dh.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/popcntintrin.h:
 
-/opt/homebrew/include/openssl/cterr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/pkuintrin.h:
 
-/opt/homebrew/include/openssl/cryptoerr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/pconfigintrin.h:
 
-/opt/homebrew/include/openssl/core_dispatch.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/movrsintrin.h:
 
-/opt/homebrew/include/openssl/core.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/movdirintrin.h:
 
-/opt/homebrew/include/openssl/conferr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mm_malloc.h:
 
-/opt/homebrew/include/openssl/comperr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mm3dnow.h:
 
-/opt/homebrew/include/openssl/buffererr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/lwpintrin.h:
 
-/opt/homebrew/include/openssl/bioerr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/immintrin.h:
 
-/opt/homebrew/include/openssl/bio.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/hresetintrin.h:
 
-/opt/homebrew/include/openssl/asyncerr.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/gfniintrin.h:
 
-/opt/homebrew/include/boost/beast/http/message_generator_fwd.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/fxsrintrin.h:
 
-/opt/homebrew/include/openssl/asn1err.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/fma4intrin.h:
 
-/opt/homebrew/include/boost/version.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/float.h:
 
-/opt/homebrew/include/openssl/dsa.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/f16cintrin.h:
 
-/opt/homebrew/include/boost/type_traits/type_with_alignment.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/emmintrin.h:
 
-/opt/homebrew/include/boost/type_traits/type_identity.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/cmpccxaddintrin.h:
 
-/opt/homebrew/include/boost/type_traits/remove_volatile.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/cetintrin.h:
 
-/opt/homebrew/include/boost/type_traits/remove_pointer.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/bmiintrin.h:
 
-/opt/homebrew/include/boost/type_traits/remove_extent.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxvnniint8intrin.h:
 
-/opt/homebrew/include/boost/type_traits/remove_cv_ref.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxifmaintrin.h:
 
-/opt/homebrew/include/boost/type_traits/remove_const.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vpopcntdqvlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/remove_bounds.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vpopcntdqintrin.h:
 
-/opt/homebrew/include/boost/type_traits/remove_all_extents.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vnnivlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/make_unsigned.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vnniintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_void.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_unsigned.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmivlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_unscoped_enum.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmi2intrin.h:
 
-/opt/homebrew/include/boost/move/algo/detail/insertion_sort.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512ifmavlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_union.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512fp16vlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_trivially_copyable.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512fp16intrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_swappable.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512fintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_stateless.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512dqintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_scoped_enum.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512cdintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_same.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bwintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_polymorphic.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/mpl.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_pod.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bmmvlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_object.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bmmintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_noncopyable.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bf16intrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_member_pointer.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2copyintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_member_function_pointer.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2convertintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_list_constructible.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxtf32intrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_function.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxfp8intrin.h:
 
-/opt/homebrew/include/boost/move/detail/iterator_to_raw_pointer.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxfp16intrin.h:
 
-/opt/homebrew/include/openssl/pkcs7.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxcomplexintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_floating_point.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/ammintrin.h:
 
-/opt/homebrew/include/boost/type_traits/is_float.hpp:
+C:/msys64/ucrt64/include/ws2tcpip.h:
 
-/opt/homebrew/include/boost/type_traits/is_destructible.hpp:
+C:/msys64/ucrt64/include/ws2ipdef.h:
 
-/opt/homebrew/include/boost/type_traits/is_copy_constructible.hpp:
+C:/msys64/ucrt64/include/winver.h:
 
-/opt/homebrew/include/boost/type_traits/is_convertible.hpp:
+C:/msys64/ucrt64/include/winsock2.h:
 
-/opt/homebrew/include/boost/type_traits/is_const.hpp:
+C:/msys64/ucrt64/include/winreg.h:
 
-/opt/homebrew/include/boost/type_traits/is_complete.hpp:
+C:/msys64/ucrt64/include/winnt.h:
 
-/opt/homebrew/include/boost/type_traits/is_class.hpp:
+C:/msys64/ucrt64/include/winerror.h:
 
-/opt/homebrew/include/boost/type_traits/is_assignable.hpp:
+C:/msys64/ucrt64/include/windows.h:
 
-/opt/homebrew/include/openssl/bnerr.h:
+C:/msys64/ucrt64/include/wincontypes.h:
 
-/opt/homebrew/include/boost/type_traits/is_abstract.hpp:
+C:/msys64/ucrt64/include/wchar.h:
 
-/opt/homebrew/include/boost/type_traits/intrinsics.hpp:
+C:/msys64/ucrt64/include/virtdisk.h:
 
-/opt/homebrew/include/boost/type_traits/integral_promotion.hpp:
+C:/msys64/ucrt64/include/vadefs.h:
 
-/opt/homebrew/include/boost/type_traits/has_trivial_move_constructor.hpp:
+C:/msys64/ucrt64/include/utilapiset.h:
 
-/opt/homebrew/include/openssl/objectserr.h:
+C:/msys64/ucrt64/include/unistd.h:
 
-/opt/homebrew/include/boost/type_traits/has_trivial_destructor.hpp:
+C:/msys64/ucrt64/include/timezoneapi.h:
 
-/opt/homebrew/include/boost/beast/http/span_body.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/alloc_helpers.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_trivial_copy.hpp:
+C:/msys64/ucrt64/include/time.h:
 
-/opt/homebrew/include/boost/type_traits/has_trivial_constructor.hpp:
+C:/msys64/ucrt64/include/threadpoollegacyapiset.h:
 
-/opt/homebrew/include/boost/type_traits/has_trivial_assign.hpp:
+C:/msys64/ucrt64/include/systemtopologyapi.h:
 
-/opt/homebrew/include/boost/type_traits/is_base_and_derived.hpp:
+C:/msys64/ucrt64/include/sys/types.h:
 
-/opt/homebrew/include/boost/type_traits/has_right_shift.hpp:
+C:/msys64/ucrt64/include/sys/timeb.h:
 
-/opt/homebrew/include/boost/type_traits/has_post_increment.hpp:
+C:/msys64/ucrt64/include/string.h:
 
-/opt/homebrew/include/boost/type_traits/has_post_decrement.hpp:
+C:/msys64/ucrt64/include/stralign.h:
 
-/opt/homebrew/include/boost/type_traits/has_plus_assign.hpp:
+C:/msys64/ucrt64/include/stdlib.h:
 
-/opt/homebrew/include/boost/type_traits/has_plus.hpp:
+C:/msys64/ucrt64/include/stddef.h:
 
-/opt/homebrew/include/boost/type_traits/has_nothrow_destructor.hpp:
+C:/msys64/ucrt64/include/stdarg.h:
 
-/opt/homebrew/include/boost/type_traits/has_nothrow_copy.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/vpclmulqdqintrin.h:
 
-/opt/homebrew/include/boost/type_traits/has_nothrow_assign.hpp:
+C:/msys64/ucrt64/include/specstrings.h:
 
-/opt/homebrew/include/boost/type_traits/has_multiplies_assign.hpp:
+C:/msys64/ucrt64/include/signal.h:
 
-/opt/homebrew/include/boost/type_traits/has_multiplies.hpp:
+C:/msys64/ucrt64/include/securityappcontainer.h:
 
-/opt/homebrew/include/boost/type_traits/has_minus_assign.hpp:
+C:/msys64/ucrt64/include/sec_api/string_s.h:
 
-/opt/homebrew/include/boost/type_traits/has_logical_not.hpp:
+C:/msys64/ucrt64/include/sec_api/stdio_s.h:
 
-/opt/homebrew/include/boost/type_traits/has_modulus_assign.hpp:
+C:/msys64/ucrt64/include/sched.h:
 
-/opt/homebrew/include/boost/type_traits/has_less.hpp:
+C:/msys64/ucrt64/include/realtimeapiset.h:
 
-/opt/homebrew/include/boost/type_traits/has_greater_equal.hpp:
+C:/msys64/ucrt64/include/pthread_compat.h:
 
-/opt/homebrew/include/boost/type_traits/has_greater.hpp:
+C:/msys64/ucrt64/include/pthread.h:
 
-/opt/homebrew/include/boost/type_traits/has_divides_assign.hpp:
+C:/msys64/ucrt64/include/pshpack8.h:
 
-/opt/homebrew/include/boost/type_traits/has_divides.hpp:
+C:/msys64/ucrt64/include/pshpack4.h:
 
-/opt/homebrew/include/boost/type_traits/has_dereference.hpp:
+C:/msys64/ucrt64/include/psdk_inc/intrin-impl.h:
 
-/opt/homebrew/include/boost/type_traits/has_complement.hpp:
+C:/msys64/ucrt64/include/psdk_inc/_xmitfile.h:
 
-/opt/homebrew/include/boost/type_traits/has_bit_xor_assign.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bitalgvlintrin.h:
 
-/opt/homebrew/include/boost/type_traits/has_bit_xor.hpp:
+C:/msys64/ucrt64/include/psdk_inc/_wsadata.h:
 
-/opt/homebrew/include/boost/type_traits/has_bit_or_assign.hpp:
+C:/msys64/ucrt64/include/psdk_inc/_ws1_undef.h:
 
-/opt/homebrew/include/boost/type_traits/has_bit_and.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxint8intrin.h:
 
-/opt/homebrew/include/boost/type_traits/function_traits.hpp:
+C:/msys64/ucrt64/include/psdk_inc/_socket_types.h:
 
-/opt/homebrew/include/boost/type_traits/extent.hpp:
+C:/msys64/ucrt64/include/psdk_inc/_ip_types.h:
 
-/opt/homebrew/include/boost/type_traits/detail/yes_no_type.hpp:
+C:/msys64/ucrt64/include/psdk_inc/_fd_types.h:
 
-/opt/homebrew/include/boost/type_traits/detail/mp_defer.hpp:
+C:/msys64/ucrt64/include/profileapi.h:
 
-/opt/homebrew/include/boost/type_traits/detail/is_swappable_cxx_11.hpp:
+C:/msys64/ucrt64/include/processtopologyapi.h:
 
-/opt/homebrew/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp:
+C:/msys64/ucrt64/include/processenv.h:
 
-/opt/homebrew/include/boost/type_traits/detail/is_function_cxx_11.hpp:
+C:/msys64/ucrt64/include/process.h:
 
-/opt/homebrew/include/boost/type_traits/detail/has_prefix_operator.hpp:
+C:/msys64/ucrt64/include/poppack.h:
 
-/opt/homebrew/include/boost/type_traits/detail/has_postfix_operator.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxavx512intrin.h:
 
-/opt/homebrew/include/boost/type_traits/detail/config.hpp:
+C:/msys64/ucrt64/include/openssl/x509v3err.h:
 
-/opt/homebrew/include/boost/type_traits/declval.hpp:
+C:/msys64/ucrt64/include/openssl/x509v3.h:
 
-/opt/homebrew/include/boost/type_traits/conditional.hpp:
+D:/CppProjects/low-latency-crypto-engine/Spinlock.hpp:
 
-/opt/homebrew/include/boost/type_traits/common_type.hpp:
+C:/msys64/ucrt64/include/openssl/x509err.h:
 
-/opt/homebrew/include/boost/type_traits/copy_reference.hpp:
+C:/msys64/ucrt64/include/openssl/x509.h:
 
-/opt/homebrew/include/boost/type_traits/alignment_of.hpp:
+C:/msys64/ucrt64/include/openssl/uierr.h:
 
-/opt/homebrew/include/boost/type_traits/aligned_storage.hpp:
+C:/msys64/ucrt64/include/sec_api/stdlib_s.h:
 
-/opt/homebrew/include/boost/type_traits/add_volatile.hpp:
+C:/msys64/ucrt64/include/openssl/types.h:
 
-/opt/homebrew/include/boost/type_traits/add_reference.hpp:
+C:/msys64/ucrt64/include/openssl/tls1.h:
 
-/opt/homebrew/include/boost/type_traits/is_member_object_pointer.hpp:
+C:/msys64/ucrt64/include/windef.h:
 
-/opt/homebrew/include/boost/type_traits/add_pointer.hpp:
+C:/msys64/ucrt64/include/openssl/symhacks.h:
 
-/opt/homebrew/include/boost/type_traits/add_lvalue_reference.hpp:
+C:/msys64/ucrt64/include/openssl/sslerr_legacy.h:
 
-/opt/homebrew/include/boost/type_traits/add_cv.hpp:
+C:/msys64/ucrt64/include/openssl/sslerr.h:
 
-/opt/homebrew/include/boost/container/detail/mpl.hpp:
+C:/msys64/ucrt64/include/openssl/ssl3.h:
 
-/opt/homebrew/include/boost/type_traits.hpp:
+C:/msys64/ucrt64/include/openssl/ssl2.h:
 
-/opt/homebrew/include/boost/type_traits/detail/has_binary_operator.hpp:
+C:/msys64/ucrt64/include/openssl/safestack.h:
 
-/opt/homebrew/include/boost/system/system_error.hpp:
+C:/msys64/ucrt64/include/openssl/rsaerr.h:
 
-/opt/homebrew/include/boost/type_traits/has_unary_plus.hpp:
+C:/msys64/ucrt64/include/openssl/randerr.h:
 
-/opt/homebrew/include/boost/system/system_category.hpp:
+C:/msys64/ucrt64/include/openssl/prov_ssl.h:
 
-/opt/homebrew/include/boost/system/is_error_condition_enum.hpp:
+C:/msys64/ucrt64/include/openssl/pkcs7.h:
 
-/opt/homebrew/include/boost/system/is_error_code_enum.hpp:
+C:/msys64/ucrt64/include/openssl/pemerr.h:
 
-/opt/homebrew/include/boost/system/error_condition.hpp:
+C:/msys64/ucrt64/include/openssl/params.h:
 
-/opt/homebrew/include/boost/system/error_code.hpp:
+C:/msys64/ucrt64/include/openssl/opensslconf.h:
 
-/opt/homebrew/include/boost/system/error_category.hpp:
+C:/msys64/ucrt64/include/openssl/objects.h:
 
-/opt/homebrew/include/boost/system/errc.hpp:
+C:/msys64/ucrt64/include/openssl/macros.h:
 
-/opt/homebrew/include/boost/system/detail/throws.hpp:
+C:/msys64/ucrt64/include/openssl/lhash.h:
 
-/opt/homebrew/include/boost/system/detail/system_category_impl.hpp:
+C:/msys64/ucrt64/include/openssl/indicator.h:
 
-/opt/homebrew/include/boost/system/detail/system_category.hpp:
+C:/msys64/ucrt64/include/openssl/hmac.h:
 
-/opt/homebrew/include/boost/system/detail/std_category_impl.hpp:
+C:/msys64/ucrt64/include/openssl/evp.h:
 
-/opt/homebrew/include/boost/system/detail/std_category.hpp:
+C:/msys64/ucrt64/include/openssl/engine.h:
 
-/opt/homebrew/include/openssl/rsaerr.h:
+C:/msys64/ucrt64/include/openssl/ec.h:
 
-/opt/homebrew/include/boost/system/detail/snprintf.hpp:
+C:/msys64/ucrt64/include/wow64apiset.h:
 
-/opt/homebrew/include/boost/system/detail/interop_category.hpp:
+C:/msys64/ucrt64/include/openssl/e_os2.h:
 
-/opt/homebrew/include/boost/system/detail/generic_category_message.hpp:
+C:/msys64/ucrt64/include/openssl/dsaerr.h:
 
-/opt/homebrew/include/boost/system/detail/generic_category.hpp:
+C:/msys64/ucrt64/include/openssl/dsa.h:
 
-/opt/homebrew/include/boost/system/detail/error_category_impl.hpp:
+C:/msys64/ucrt64/include/openssl/cterr.h:
 
-/opt/homebrew/include/boost/system/detail/enable_if.hpp:
+C:/msys64/ucrt64/include/openssl/ct.h:
 
-/opt/homebrew/include/boost/static_string/config.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/predicate.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/shared_ptr.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mwaitxintrin.h:
 
-/opt/homebrew/include/boost/smart_ptr/make_shared_object.hpp:
+C:/msys64/ucrt64/include/openssl/crypto.h:
 
-/opt/homebrew/include/boost/smart_ptr/make_shared.hpp:
+C:/msys64/ucrt64/include/openssl/core_dispatch.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/spinlock_pool.hpp:
+C:/msys64/ucrt64/include/openssl/core.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/spinlock.hpp:
+C:/msys64/ucrt64/include/openssl/conftypes.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/sp_noexcept.hpp:
+C:/msys64/ucrt64/include/openssl/configuration.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp:
+C:/msys64/ucrt64/include/openssl/conf.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/sp_counted_impl.hpp:
+C:/msys64/ucrt64/include/openssl/buffererr.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/sp_counted_base.hpp:
+C:/msys64/ucrt64/include/wingdi.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/shared_count.hpp:
+C:/msys64/ucrt64/include/openssl/bnerr.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/local_sp_deleter.hpp:
+C:/msys64/ucrt64/include/openssl/bn.h:
 
-/opt/homebrew/include/boost/type_traits/is_arithmetic.hpp:
+C:/msys64/ucrt64/include/openssl/bioerr.h:
 
-/opt/homebrew/include/boost/smart_ptr/detail/deprecated_macros.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h:
 
-/opt/homebrew/include/boost/smart_ptr/allocate_shared_array.hpp:
+C:/msys64/ucrt64/include/openssl/bio.h:
 
-/opt/homebrew/include/boost/optional/optional_fwd.hpp:
+C:/msys64/ucrt64/include/namedpipeapi.h:
 
-/opt/homebrew/include/boost/optional/optional.hpp:
+C:/msys64/ucrt64/include/mswsock.h:
 
-/opt/homebrew/include/boost/optional/detail/optional_utility.hpp:
+C:/msys64/ucrt64/include/mstcpip.h:
 
-/opt/homebrew/include/boost/optional/detail/optional_trivially_copyable_base.hpp:
+C:/msys64/ucrt64/include/minwindef.h:
 
-/opt/homebrew/include/boost/optional/detail/optional_reference_spec.hpp:
+C:/msys64/ucrt64/include/minwinbase.h:
 
-/opt/homebrew/include/boost/type_traits/has_minus.hpp:
+C:/msys64/ucrt64/include/math.h:
 
-/opt/homebrew/include/boost/optional/detail/optional_hash.hpp:
+C:/msys64/ucrt64/include/malloc.h:
 
-/opt/homebrew/include/boost/optional/detail/optional_factory_support.hpp:
+C:/msys64/ucrt64/include/locale.h:
 
-/opt/homebrew/include/boost/optional/detail/optional_aligned_storage.hpp:
+C:/msys64/ucrt64/include/libloaderapi.h:
 
-/opt/homebrew/include/boost/optional/bad_optional_access.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/file_body.hpp:
 
-/opt/homebrew/include/boost/none.hpp:
+C:/msys64/ucrt64/include/ioapiset.h:
 
-/opt/homebrew/include/boost/mp11/set.hpp:
+C:/msys64/ucrt64/include/io.h:
 
-/opt/homebrew/include/boost/type_traits/is_lvalue_reference.hpp:
+C:/msys64/ucrt64/include/inaddr.h:
 
-/opt/homebrew/include/boost/mp11/list.hpp:
+C:/msys64/ucrt64/include/in6addr.h:
 
-/opt/homebrew/include/boost/mp11/integral.hpp:
+C:/msys64/ucrt64/include/sec_api/stralign_s.h:
 
-/opt/homebrew/include/boost/mp11/integer_sequence.hpp:
+C:/msys64/ucrt64/include/handleapi.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_void.hpp:
+C:/msys64/ucrt64/include/fltwinerror.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_remove_if.hpp:
+C:/msys64/ucrt64/include/float.h:
 
-/opt/homebrew/include/boost/type_traits/negation.hpp:
+C:/msys64/ucrt64/include/excpt.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_plus.hpp:
+C:/msys64/ucrt64/include/errno.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_map_find.hpp:
+C:/msys64/ucrt64/include/corecrt_wstdlib.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_is_value_list.hpp:
+C:/msys64/ucrt64/include/corecrt_wconio.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_defer.hpp:
+C:/msys64/ucrt64/include/corecrt_stdio_config.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_count.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/waitpkgintrin.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_copy_if.hpp:
+C:/msys64/ucrt64/include/corecrt_startup.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_append.hpp:
+C:/msys64/ucrt64/include/corecrt_memory.h:
 
-/opt/homebrew/include/boost/mp11/detail/config.hpp:
+C:/msys64/ucrt64/include/consoleapi2.h:
 
-/opt/homebrew/include/boost/mp11/bind.hpp:
+C:/msys64/ucrt64/include/consoleapi.h:
 
-/opt/homebrew/include/boost/mp11/algorithm.hpp:
+C:/msys64/ucrt64/include/concurrencysal.h:
 
-/opt/homebrew/include/boost/move/detail/workaround.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h:
 
-/opt/homebrew/include/openssl/e_os2.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/opt_random.h:
 
-/opt/homebrew/include/boost/move/detail/type_traits.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/addressof.hpp:
 
-/opt/homebrew/include/boost/move/detail/to_raw_pointer.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/messages_members.h:
 
-/opt/homebrew/include/boost/move/detail/std_ns_begin.hpp:
+C:/msys64/ucrt64/include/openssl/ui.h:
 
-/opt/homebrew/include/boost/move/detail/reverse_iterator.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/gthr.h:
 
-/opt/homebrew/include/boost/move/detail/pointer_element.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/gthr-default.h:
 
-/opt/homebrew/include/boost/move/detail/meta_utils_core.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/error_constants.h:
 
-/opt/homebrew/include/boost/move/detail/meta_utils.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
-/opt/homebrew/include/boost/move/detail/launder.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h:
 
-/opt/homebrew/include/boost/move/detail/force_ptr.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/vector:
 
-/opt/homebrew/include/boost/type_traits/has_equal_to.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/variant:
 
-/opt/homebrew/include/boost/move/detail/config_begin.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/utility:
 
-/opt/homebrew/include/boost/move/detail/addressof.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/typeinfo:
 
-/opt/homebrew/include/boost/move/core.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tuple:
 
-/opt/homebrew/include/boost/move/adl_move_swap.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/special_function_util.h:
 
-/opt/homebrew/include/boost/make_unique.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/riemann_zeta.tcc:
 
-/opt/homebrew/include/boost/make_shared.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/detail/basic_op.hpp:
 
-/opt/homebrew/include/boost/logic/tribool_fwd.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/poly_laguerre.tcc:
 
-/opt/homebrew/include/boost/logic/tribool.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512ifmaintrin.h:
 
-/opt/homebrew/include/boost/intrusive/set_hook.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/poly_hermite.tcc:
 
-/opt/homebrew/include/boost/intrusive/rbtree_algorithms.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/legendre_function.tcc:
 
-/opt/homebrew/include/boost/intrusive/pointer_traits.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/hypergeometric.tcc:
 
-/opt/homebrew/include/boost/intrusive/pointer_plus_bits.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/exp_integral.tcc:
 
-/opt/homebrew/include/boost/intrusive/pack_options.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/thread:
 
-/opt/homebrew/include/boost/intrusive/options.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/bmi2intrin.h:
 
-/opt/homebrew/include/boost/intrusive/list_hook.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/string_view:
 
-/opt/homebrew/include/boost/intrusive/list.hpp:
+C:/msys64/ucrt64/include/datetimeapi.h:
 
-/opt/homebrew/include/boost/intrusive/link_mode.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/string:
 
-/opt/homebrew/include/boost/intrusive/detail/value_functors.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/span:
 
-/opt/homebrew/include/boost/intrusive/detail/uncast.hpp:
+C:/msys64/ucrt64/include/boost/container/vector.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/tree_value_compare.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/source_location:
 
-/opt/homebrew/include/boost/intrusive/detail/tree_node.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/set:
 
-/opt/homebrew/include/boost/intrusive/detail/tree_iterator.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ratio:
 
-/opt/homebrew/include/boost/intrusive/detail/size_holder.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ranges:
 
-/opt/homebrew/include/boost/intrusive/detail/simple_disposers.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/random:
 
-/opt/homebrew/include/boost/intrusive/detail/parent_from_member.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/pstl/pstl_config.h:
 
-/opt/homebrew/include/boost/move/algo/detail/is_sorted.hpp:
+C:/msys64/ucrt64/include/reason.h:
 
-/opt/homebrew/include/boost/intrusive/detail/mpl.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/pstl/glue_algorithm_defs.h:
 
-/opt/homebrew/include/boost/intrusive/detail/minimal_less_equal_header.hpp:
+C:/msys64/ucrt64/include/openssl/obj_mac.h:
 
-/opt/homebrew/include/boost/intrusive/detail/list_node.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/pstl/execution_defs.h:
 
-/opt/homebrew/include/boost/intrusive/detail/key_nodeptr_comp.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ostream:
 
-/opt/homebrew/include/boost/intrusive/detail/iiterator.hpp:
+C:/msys64/ucrt64/include/guiddef.h:
 
-/opt/homebrew/include/boost/intrusive/detail/get_value_traits.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/numbers:
 
-/opt/homebrew/include/boost/intrusive/detail/generic_hook.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/new:
 
-/opt/homebrew/include/boost/type_traits/is_fundamental.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/mutex:
 
-/opt/homebrew/include/boost/intrusive/detail/exception_disposer.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/memory:
 
-/opt/homebrew/include/boost/intrusive/detail/empty_node_checker.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/locale:
 
-/opt/homebrew/include/boost/intrusive/detail/ebo_functor_holder.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/list:
 
-/opt/homebrew/include/boost/throw_exception.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mwaitintrin.h:
 
-/opt/homebrew/include/boost/intrusive/detail/bstree_algorithms_base.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/iterator:
 
-/opt/homebrew/include/boost/intrusive/detail/assert.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ios:
 
-/opt/homebrew/include/boost/intrusive/detail/algorithm.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/iomanip:
 
-/opt/homebrew/include/boost/intrusive/bstree.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/initializer_list:
 
-/opt/homebrew/include/boost/exception/exception.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/functional:
 
-/opt/homebrew/include/boost/endian/detail/is_scoped_enum.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ext/type_traits.h:
 
-/opt/homebrew/include/boost/endian/detail/integral_by_size.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ext/numeric_traits.h:
 
-/opt/homebrew/include/boost/endian/detail/endian_store.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ext/atomicity.h:
 
-/opt/homebrew/include/boost/static_string/static_string.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ext/alloc_traits.h:
 
-/opt/homebrew/include/boost/endian/conversion.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ext/aligned_buffer.h:
 
-/opt/homebrew/include/boost/type_traits/has_left_shift.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/debug/debug.h:
 
-/opt/homebrew/include/boost/enable_shared_from_this.hpp:
+C:/msys64/ucrt64/include/openssl/opensslv.h:
 
-/opt/homebrew/include/boost/detail/workaround.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cwctype:
 
-/opt/homebrew/include/boost/describe/modifiers.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/ext/concurrence.h:
 
-/opt/homebrew/include/boost/describe/members.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cwchar:
 
-/opt/homebrew/include/boost/describe/detail/void_t.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cstring:
 
-/opt/homebrew/include/boost/describe/detail/config.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/version_type.hpp:
 
-/opt/homebrew/include/boost/describe/bases.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cstdlib:
 
-/opt/homebrew/include/boost/core/pointer_traits.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cstdio:
 
-/opt/homebrew/include/boost/core/launder.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cstdint:
 
-/opt/homebrew/include/boost/mp11/utility.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cstddef:
 
-/opt/homebrew/include/boost/core/invoke_swap.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/condition_variable:
 
-/opt/homebrew/include/boost/core/ignore_unused.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/compare:
 
-/opt/homebrew/include/boost/core/first_scalar.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cmath:
 
-/opt/homebrew/include/boost/core/exchange.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/clocale:
 
-/opt/homebrew/include/boost/core/empty_value.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cerrno:
 
-/opt/homebrew/include/boost/core/detail/sp_thread_yield.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cassert:
 
-/opt/homebrew/include/boost/core/detail/sp_thread_sleep.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h:
 
-/opt/homebrew/include/boost/core/detail/is_same.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/vector.tcc:
 
-/opt/homebrew/include/boost/core/detail/assert.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/utility.h:
 
-/opt/homebrew/include/boost/core/data.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/uses_allocator_args.h:
 
-/opt/homebrew/include/boost/core/alloc_construct.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/uses_allocator.h:
 
-/opt/homebrew/include/boost/core/addressof.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/unordered_map.h:
 
-/opt/homebrew/include/boost/container_hash/is_unordered_range.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/array.hpp:
 
-/opt/homebrew/include/boost/container_hash/is_tuple_like.hpp:
+C:/msys64/ucrt64/include/boost/config/detail/select_platform_config.hpp:
 
-/opt/homebrew/include/boost/container_hash/is_contiguous_range.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_trivial_destructor.hpp:
 
-/opt/homebrew/include/boost/container_hash/hash_fwd.hpp:
+C:/msys64/ucrt64/include/boost/config/detail/select_compiler_config.hpp:
 
-/opt/homebrew/include/boost/container_hash/detail/hash_range.hpp:
+C:/msys64/ucrt64/include/boost/config/compiler/gcc.hpp:
 
-/opt/homebrew/include/boost/container_hash/detail/hash_integral.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/inflate_stream.hpp:
 
-/opt/homebrew/include/boost/mp11/detail/mp_with_index.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/simple_disposers.hpp:
 
-/opt/homebrew/include/boost/config/user.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/strand_executor_service.hpp:
 
-/opt/homebrew/include/boost/config/stdlib/libcpp.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/chrono_time_traits.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_base_of.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/error.hpp:
 
-/opt/homebrew/include/boost/config/detail/suffix.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxintrin.h:
 
-/opt/homebrew/include/boost/config/detail/posix_features.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/detail/ranges.hpp:
 
-/opt/homebrew/include/boost/config/detail/cxx_composite.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/file_body_fwd.hpp:
 
-/opt/homebrew/include/boost/config/compiler/clang_version.hpp:
+C:/msys64/ucrt64/include/openssl/ecerr.h:
 
-/opt/homebrew/include/boost/cerrno.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/minimal_less_equal_header.hpp:
 
-/opt/homebrew/include/boost/bind/std_placeholders.hpp:
+C:/msys64/ucrt64/include/boost/config/detail/select_stdlib_config.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/inflate_stream.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/rfc6455.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/impl/error.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2satcvtintrin.h:
 
-/opt/homebrew/include/boost/beast/zlib/error.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/type_traits.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/detail/window.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_ios.h:
 
-/opt/homebrew/include/openssl/configuration.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/teardown.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/detail/ranges.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/error.ipp:
 
-/opt/homebrew/include/boost/beast/zlib/detail/inflate_stream.ipp:
+C:/msys64/ucrt64/include/boost/asio/ip/basic_resolver_entry.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/detail/inflate_stream.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/stream_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/detail/deflate_stream.ipp:
+C:/msys64/ucrt64/include/boost/config/user.hpp:
 
-/opt/homebrew/include/boost/intrusive/parent_from_member.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/ssl.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/detail/deflate_stream.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/impl/read.hpp:
 
-/opt/homebrew/include/boost/config/detail/select_compiler_config.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/teardown.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/detail/bitstream.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/numeric:
 
-/opt/homebrew/include/boost/beast/zlib/deflate_stream.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/error.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/teardown.hpp:
+C:/msys64/ucrt64/include/boost/core/alloc_construct.hpp:
 
-/opt/homebrew/include/boost/move/detail/iterator_traits.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/is_sorted.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/stream_fwd.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/destroyers.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/stream_base.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/close.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/ssl.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/ostream.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/write.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/impl/error.ipp:
 
-/opt/homebrew/include/boost/move/detail/config_end.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_unary_plus.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/teardown.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/accept.hpp:
 
-/opt/homebrew/include/openssl/cryptoerr_legacy.h:
+C:/msys64/ucrt64/include/boost/move/algo/adaptive_sort.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_logical_and.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/launder.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/stream.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/error.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/ssl.hpp:
+C:/msys64/ucrt64/include/wnnc.h:
 
-/opt/homebrew/include/boost/beast/websocket/impl/read.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/utf8_checker.ipp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/handshake.hpp:
+C:/msys64/ucrt64/include/winsvc.h:
 
-/opt/homebrew/include/boost/beast/websocket/detail/utf8_checker.ipp:
+C:/msys64/ucrt64/include/boost/none.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/utf8_checker.hpp:
+C:/msys64/ucrt64/include/openssl/evperr.h:
 
-/opt/homebrew/include/boost/beast/websocket/detail/type_traits.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/detail/has_binary_operator.hpp:
 
-/opt/homebrew/include/boost/config/compiler/clang.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/clamp.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/soft_mutex.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/parser_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/service.ipp:
+C:/msys64/ucrt64/include/boost/asio/ip/impl/address.ipp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/service.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/service.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/prng.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/pmd_extension.ipp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/pmd_extension.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/static_const.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/mask.ipp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/mask.hpp:
 
-/opt/homebrew/include/boost/type_traits/rank.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/impl/openssl_init.ipp:
 
-/opt/homebrew/include/boost/type_traits/promote.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_complete.hpp:
 
-/opt/homebrew/include/boost/static_assert.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/remove_reference.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/impl_base.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/fwd_macros.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/hybi13.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/string.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/detail/decorator.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/prng.ipp:
 
-/opt/homebrew/include/boost/beast/version.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/tree_iterator.hpp:
 
-/opt/homebrew/include/boost/beast/ssl/ssl_stream.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/move_helpers.hpp:
 
-/opt/homebrew/include/boost/beast/ssl.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/option.hpp:
 
-/opt/homebrew/include/boost/beast/http/write.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/bessel_function.tcc:
 
-/opt/homebrew/include/boost/beast/http/verb.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket.hpp:
 
-/opt/homebrew/include/boost/beast/http/string_body.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/write.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/rfc6455.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/type_traits.hpp:
 
-/opt/homebrew/include/boost/beast/http/serializer.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/string_body.hpp:
 
-/opt/homebrew/include/boost/beast/http/read.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/read.hpp:
 
-/opt/homebrew/include/boost/beast/http/parser.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/message_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/http/message_fwd.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/buffer_body_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/http/message.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ios_base.h:
 
-/opt/homebrew/include/openssl/sslerr_legacy.h:
+C:/msys64/ucrt64/include/boost/beast/http/impl/message.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/write.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/field.ipp:
 
-/opt/homebrew/include/boost/beast/http/impl/status.ipp:
+C:/msys64/ucrt64/include/boost/type_traits/remove_const.hpp:
 
-/opt/homebrew/include/boost/container/detail/type_traits.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/error.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/rfc7230.ipp:
+C:/msys64/ucrt64/include/boost/io/detail/buffer_fill.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/read.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/prfchiintrin.h:
 
-/opt/homebrew/include/boost/type_traits/has_negate.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/ping.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/parser.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/chunk_encode.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/message.hpp:
+C:/msys64/ucrt64/include/boost/static_assert.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/error.ipp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxvnniint16intrin.h:
 
-/opt/homebrew/include/boost/beast/http/impl/error.hpp:
+C:/msys64/ucrt64/include/boost/config/detail/suffix.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/basic_parser.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/stream_traits.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/basic_parser.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/empty_body.hpp:
 
-/opt/homebrew/include/boost/beast/http/empty_body.hpp:
+C:/msys64/ucrt64/include/boost/core/detail/sp_thread_yield.hpp:
 
-/opt/homebrew/include/boost/beast/http/detail/rfc7230.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/charconv:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_in_out_result.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/char_buffer.hpp:
 
-/opt/homebrew/include/boost/beast/http/detail/chunk_encode.hpp:
+C:/msys64/ucrt64/include/boost/asio/traits/query_member.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/bad_weak_ptr.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/static_buffer.hpp:
 
-/opt/homebrew/include/boost/beast/http/detail/basic_parser.hpp:
+C:/msys64/ucrt64/include/boost/align/detail/is_alignment.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/strong_order.h:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/beta_function.tcc:
 
-/opt/homebrew/include/boost/beast/http/detail/basic_parsed_list.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/error.hpp:
 
-/opt/homebrew/include/boost/beast/http/basic_parser.hpp:
+C:/msys64/ucrt64/include/boost/smart_ptr/make_shared_array.hpp:
 
-/opt/homebrew/include/boost/beast/core/string_type.hpp:
+C:/msys64/ucrt64/include/boost/make_unique.hpp:
 
-/opt/homebrew/include/openssl/dherr.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/static_buffer.ipp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/stream_impl.hpp:
+C:/msys64/ucrt64/include/boost/smart_ptr/shared_ptr.hpp:
 
-/opt/homebrew/include/boost/beast/core/string.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/stream.hpp:
 
-/opt/homebrew/include/boost/beast/websocket.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/uintrintrin.h:
 
-/opt/homebrew/include/boost/beast/core/read_size.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/config_end.hpp:
 
-/opt/homebrew/include/boost/beast/core/ostream.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/detail/config.hpp:
 
-/opt/homebrew/include/boost/beast/core/make_printable.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/timer_queue_set.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/string.ipp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/basic_parser.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_move.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_divides_assign.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/static_buffer.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/flat_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/half_positive.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_overlapped_op.hpp:
 
-/opt/homebrew/include/boost/beast/core/span.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/flat_static_buffer.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/saved_handler.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/string_type.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/move.h:
+C:/msys64/ucrt64/include/boost/asio/wait_traits.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/flat_stream.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/file_win32.ipp:
 
-/opt/homebrew/include/boost/beast/core/impl/flat_static_buffer.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/chunk_encode.hpp:
 
-/opt/homebrew/include/boost/beast/zlib/zlib.hpp:
+C:/msys64/ucrt64/include/boost/predef/detail/test.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int32_t.h:
+C:/msys64/ucrt64/include/boost/beast/http/parser.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_integer.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/binders.h:
 
-/opt/homebrew/include/boost/beast/core/impl/flat_buffer.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/buffers_adaptor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bit:
+C:/msys64/ucrt64/include/boost/beast/http/empty_body_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/file_posix.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/flat_static_buffer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/lognormal_distribution.h:
+C:/msys64/ucrt64/include/boost/container/detail/workaround.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/error.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/flat_buffer.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/buffers_generator.hpp:
+C:/msys64/ucrt64/include/boost/asio/socket_base.hpp:
 
-/opt/homebrew/include/openssl/x509v3.h:
+C:/msys64/ucrt64/include/boost/beast/core/file_posix.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
+C:/msys64/ucrt64/include/boost/move/detail/meta_utils_core.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each_n_segment.h:
+C:/msys64/ucrt64/include/boost/move/algo/detail/merge.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/buffers_cat.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/file_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_locale_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/charconv.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_all_extents.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/buffers_suffix.hpp:
 
-/opt/homebrew/include/boost/beast/core/flat_stream.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/stream.hpp:
 
-/opt/homebrew/include/boost/beast/core/flat_static_buffer.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_logical_or.hpp:
 
-/opt/homebrew/include/boost/asio/ip/basic_resolver_query.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_post_increment.hpp:
 
-/opt/homebrew/include/boost/beast/core/flat_buffer.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/type_traits.hpp:
 
-/opt/homebrew/include/boost/beast/core/file_posix.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_volatile.hpp:
 
-/opt/homebrew/include/boost/beast/core/error.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/string.hpp:
 
-/opt/homebrew/include/boost/beast/core/detect_ssl.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/sha1.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/type_traits.hpp:
+C:/msys64/ucrt64/include/openssl/asn1.h:
 
-/opt/homebrew/include/boost/core/checked_delete.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/atomic_count.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/temporary_buffer.hpp:
+C:/msys64/ucrt64/include/boost/optional/detail/optional_relops.hpp:
 
-/opt/homebrew/include/openssl/async.h:
+C:/msys64/ucrt64/include/boost/asio/detail/timer_queue_base.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/stream_traits.hpp:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_front.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/sha1.ipp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/error.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__undef_macros:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_recvmsg_op.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/service_base.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/chacha.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/pcg.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/impl_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/gamma_distribution.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_string.h:
 
-/opt/homebrew/include/boost/beast/core/detail/impl/read.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/buffers_ref.hpp:
 
-/opt/homebrew/include/boost/beast/core/async_base.hpp:
+C:/msys64/ucrt64/include/pthread_signal.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/is_pointer_in_range.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/buffer.hpp:
 
-/opt/homebrew/include/boost/asio/cancellation_type.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/bind_handler.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/flat_stream.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/base_from_cancellation_state.hpp:
 
-/opt/homebrew/include/boost/config/platform/macos.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/version:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/addressof.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_post_decrement.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/sha1.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/rfc6455.hpp:
 
-/opt/homebrew/include/boost/system/detail/error_code.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/base64.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/once_flag.h:
+C:/msys64/ucrt64/include/psdk_inc/_ip_mreq1.h:
 
-/opt/homebrew/include/boost/beast/core/detail/buffers_ref.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/fields_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/rfc6455.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/rfc7230.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/buffer_traits.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/basic_dynamic_body_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/messages.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/async_base.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/bind_continuation.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bitalgintrin.h:
 
-/opt/homebrew/include/boost/beast/core/detail/async_base.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/buffers_generator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/weibull_distribution.h:
+C:/msys64/ucrt64/include/boost/asio/coroutine.hpp:
 
-/opt/homebrew/include/boost/beast/core/buffers_to_string.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/posix_fd_set_adapter.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/front_insert_iterator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/node_handle.h:
 
-/opt/homebrew/include/boost/beast/core/buffers_cat.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ptr_traits.h:
 
-/opt/homebrew/include/boost/type_traits/has_right_shift_assign.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/ssl.hpp:
 
-/opt/homebrew/include/boost/beast/core/buffers_adaptor.hpp:
+C:/msys64/ucrt64/include/boost/beast/core.hpp:
 
-/opt/homebrew/include/boost/asio/yield.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/dynamic_body_fwd.hpp:
 
-/opt/homebrew/include/boost/asio/write.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/detail/window.hpp:
 
-/opt/homebrew/include/boost/asio/unyield.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/span_body_fwd.hpp:
 
-/opt/homebrew/include/boost/asio/execution_context.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsaveoptintrin.h:
 
-/opt/homebrew/include/boost/asio/traits/static_require.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/type_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/scan_keyword.h:
+C:/msys64/ucrt64/include/boost/assert.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/span:
+C:/msys64/ucrt64/include/boost/cerrno.hpp:
 
-/opt/homebrew/include/boost/asio/traits/require_free.hpp:
+C:/msys64/ucrt64/include/boost/asio/yield.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_compound.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/variant.hpp:
 
-/opt/homebrew/include/boost/asio/traits/prefer_free.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/std_ns_end.hpp:
 
-/opt/homebrew/include/boost/asio/system_context.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_array.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/close.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/timer_scheduler.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/verify_mode.hpp:
+C:/msys64/ucrt64/include/boost/asio/traits/prefer_free.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/enable_shared_from_this.hpp:
+C:/msys64/ucrt64/include/boost/asio/ip/impl/basic_endpoint.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/verify_context.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/shared_ptr_atomic.h:
 
-/opt/homebrew/include/boost/asio/ssl/stream_base.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/write.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/socket.h:
+C:/msys64/ucrt64/include/boost/asio/detail/utility.hpp:
 
-/opt/homebrew/include/boost/asio/traits/query_member.hpp:
+C:/msys64/ucrt64/include/openssl/ssl.h:
 
-/opt/homebrew/include/boost/container/detail/is_pair.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_new_operator.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/impl/context.ipp:
+C:/msys64/ucrt64/include/boost/asio/system_executor.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/function_detector.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xmmintrin.h:
 
-/opt/homebrew/include/boost/asio/ssl/impl/context.hpp:
+C:/msys64/ucrt64/include/boost/bind/std_placeholders.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/write_op.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/detail/yes_no_type.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/verify_callback.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_compound.hpp:
 
-/opt/homebrew/include/boost/beast/core/buffers_range.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/verify_mode.hpp:
 
-/opt/homebrew/include/boost/asio/wait_traits.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/win_global.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/read_op.hpp:
+C:/msys64/ucrt64/include/boost/config/stdlib/libstdcpp3.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/password_callback.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/buffer_traits.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_constructible.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/math.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/openssl_types.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/impl/error.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/impl/engine.ipp:
+C:/msys64/ucrt64/include/boost/core/addressof.hpp:
 
-/opt/homebrew/include/openssl/prov_ssl.h:
+C:/msys64/ucrt64/include/boost/asio/completion_condition.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/semiregular.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/tree_node.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vldqintrin.h:
 
-/opt/homebrew/include/boost/asio/ssl/detail/engine.hpp:
+C:/msys64/ucrt64/include/crtdefs.h:
 
-/opt/homebrew/include/boost/beast/http/detail/rfc7230.ipp:
+C:/msys64/ucrt64/include/boost/asio/ssl/impl/context.ipp:
 
-/opt/homebrew/include/boost/asio/socket_base.hpp:
+C:/msys64/ucrt64/include/boost/move/algo/detail/adaptive_sort_merge.hpp:
 
-/opt/homebrew/include/boost/asio/require.hpp:
+C:/msys64/ucrt64/include/boost/describe/modifiers.hpp:
 
-/opt/homebrew/include/boost/asio/registered_buffer.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/impl/context.hpp:
 
-/opt/homebrew/include/boost/move/algo/detail/merge_sort.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/handshake.hpp:
 
-/opt/homebrew/include/openssl/obj_mac.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_list_constructible.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_referenceable.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/write_op.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/posix_mutex.ipp:
+C:/msys64/ucrt64/include/wctype.h:
 
-/opt/homebrew/include/boost/asio/prefer.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/verify_callback.hpp:
 
-/opt/homebrew/include/boost/asio/post.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/fmaintrin.h:
 
-/opt/homebrew/include/openssl/symhacks.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/stream_core.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/zoned_time.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/clflushoptintrin.h:
 
-/opt/homebrew/include/boost/asio/detail/deadline_timer_service.hpp:
+C:/msys64/ucrt64/include/limits.h:
 
-/opt/homebrew/include/boost/assert/source_location.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/make_signed.hpp:
 
-/opt/homebrew/include/boost/asio/strand.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/shutdown_op.hpp:
 
-/opt/homebrew/include/boost/asio/multiple_exceptions.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/type_with_alignment.hpp:
 
-/opt/homebrew/include/boost/asio/is_contiguous_iterator.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/password_callback.hpp:
 
-/opt/homebrew/include/boost/asio/ip/tcp.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/openssl_types.hpp:
 
-/opt/homebrew/include/openssl/dsaerr.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_copy.hpp:
 
-/opt/homebrew/include/boost/asio/ip/resolver_query_base.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_left_shift.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/put_character_sequence.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/openssl_init.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ssize_t.h:
+C:/msys64/ucrt64/include/boost/move/algo/detail/search.hpp:
 
-/opt/homebrew/include/boost/asio/traits/prefer_member.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/cstddef.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/ranges_destroy.h:
+C:/msys64/ucrt64/include/boost/beast/core/static_string.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_copy.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/io.hpp:
 
-/opt/homebrew/include/boost/asio/ip/resolver_base.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/basic_parser.ipp:
 
-/opt/homebrew/include/boost/type_traits/is_nothrow_move_assignable.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/impl/engine.ipp:
 
-/opt/homebrew/include/boost/beast/http/impl/fields.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2minmaxintrin.h:
 
-/opt/homebrew/include/boost/asio/ip/impl/basic_endpoint.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_right_shift_assign.hpp:
 
-/opt/homebrew/include/boost/mp11/detail/mp_is_list.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/engine.hpp:
 
-/opt/homebrew/include/boost/asio/ip/impl/address_v6.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/buffered_handshake_op.hpp:
 
-/opt/homebrew/include/boost/asio/ip/impl/address_v4.ipp:
+C:/msys64/ucrt64/include/boost/type_traits/integral_promotion.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/search.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/handshake_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/csignal:
+C:/msys64/ucrt64/include/boost/asio/windows/overlapped_ptr.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/shutdown_op.hpp:
+C:/msys64/ucrt64/include/boost/config/workaround.hpp:
 
-/opt/homebrew/include/boost/asio/ip/impl/address.ipp:
+C:/msys64/ucrt64/include/boost/asio/ssl/context.hpp:
 
-/opt/homebrew/include/boost/asio/ip/impl/address.hpp:
+C:/msys64/ucrt64/include/boost/describe/members.hpp:
 
-/opt/homebrew/include/boost/asio/ip/detail/impl/endpoint.ipp:
+C:/msys64/ucrt64/include/boost/endian/detail/static_assert.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/weak_result_type.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/decorator.hpp:
 
-/opt/homebrew/include/boost/asio/ip/basic_resolver_results.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_polymorphic.hpp:
 
-/opt/homebrew/include/boost/asio/ip/basic_resolver.hpp:
+C:/msys64/ucrt64/include/consoleapi3.h:
 
-/opt/homebrew/include/boost/asio/ip/bad_address_cast.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/stream_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype:
+C:/msys64/ucrt64/include/winnls.h:
 
-/opt/homebrew/include/boost/asio/ip/address_v4.hpp:
+C:/msys64/ucrt64/include/assert.h:
 
-/opt/homebrew/include/boost/asio/detail/is_executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/require.hpp:
 
-/opt/homebrew/include/boost/asio/ip/address.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/enable_special_members.h:
 
-/opt/homebrew/include/boost/type_traits/has_trivial_move_assign.hpp:
+C:/msys64/ucrt64/include/boost/asio/registered_buffer.hpp:
 
-/opt/homebrew/include/boost/asio/inline_executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/query.hpp:
 
-/opt/homebrew/include/boost/move/utility_core.hpp:
+C:/msys64/ucrt64/include/boost/asio/traits/query_free.hpp:
 
-/opt/homebrew/include/boost/asio/impl/system_executor.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/requires_hosted.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/common_view.h:
+C:/msys64/ucrt64/include/boost/asio/impl/config.ipp:
 
-/opt/homebrew/include/boost/asio/impl/system_context.ipp:
+C:/msys64/ucrt64/include/boost/asio/post.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/win32_unicode_path.hpp:
+C:/msys64/ucrt64/include/boost/asio/multiple_exceptions.hpp:
 
-/opt/homebrew/include/boost/asio/impl/io_context.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/cfloat:
 
-/opt/homebrew/include/boost/asio/impl/executor.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/buffers_prefix.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/char_traits.h:
+C:/msys64/ucrt64/include/boost/asio/is_contiguous_iterator.hpp:
 
-/opt/homebrew/include/boost/asio/impl/execution_context.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/rbtree_algorithms.hpp:
 
-/opt/homebrew/include/openssl/sha.h:
+C:/msys64/ucrt64/include/boost/beast/core/saved_handler.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/ping.hpp:
+C:/msys64/ucrt64/include/mcx.h:
 
-/opt/homebrew/include/boost/asio/impl/any_io_executor.ipp:
+C:/msys64/ucrt64/include/boost/beast/ssl.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/hash.h:
+C:/msys64/ucrt64/include/boost/asio/is_applicable_property.hpp:
 
-/opt/homebrew/include/boost/asio/handler_continuation_hook.hpp:
+C:/msys64/ucrt64/include/boost/asio/ip/resolver_query_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/identity.h:
+C:/msys64/ucrt64/include/winuser.h:
 
-/opt/homebrew/include/boost/asio/executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/ip/resolver_base.hpp:
 
-/opt/homebrew/include/boost/asio/execution/prefer_only.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/raointintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/reverse.h:
+C:/msys64/ucrt64/include/boost/asio/ip/detail/impl/endpoint.ipp:
 
-/opt/homebrew/include/boost/asio/detail/throw_exception.hpp:
+C:/msys64/ucrt64/include/boost/asio/ip/impl/address_v6.hpp:
 
-/opt/homebrew/include/boost/asio/execution/outstanding_work.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/conditionally_enabled_mutex.hpp:
 
-/opt/homebrew/include/boost/asio/execution/inline_exception_handling.hpp:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_append.hpp:
 
-/opt/homebrew/include/boost/asio/detail/atomic_count.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/flat_stream.hpp:
 
-/opt/homebrew/include/boost/asio/execution/context_as.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/file_win32.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_partial_order_fallback.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/ostream.hpp:
 
-/opt/homebrew/include/boost/asio/execution/context.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/limits:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_merge.h:
+C:/msys64/ucrt64/include/boost/asio/detail/noncopyable.hpp:
 
-/opt/homebrew/include/boost/asio/execution/any_executor.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/ctype_inline.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int32_t.h:
+C:/msys64/ucrt64/include/boost/type_traits/aligned_storage.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_sigaltstack.h:
+C:/msys64/ucrt64/include/boost/asio/detail/null_reactor.hpp:
 
-/opt/homebrew/include/boost/asio/execution.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/smmintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/predicate.h:
+C:/msys64/ucrt64/include/boost/asio/basic_socket_streambuf.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/destroy.h:
+C:/msys64/ucrt64/include/boost/asio/detail/is_buffer_sequence.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/linear_congruential_engine.h:
+C:/msys64/ucrt64/include/openssl/asn1err.h:
 
-/opt/homebrew/include/boost/asio/detail/wrapped_handler.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/win_static_mutex.ipp:
 
-/opt/homebrew/include/boost/move/traits.hpp:
+C:/msys64/ucrt64/include/boost/asio/append.hpp:
 
-/opt/homebrew/include/boost/asio/detail/wait_op.hpp:
+C:/msys64/ucrt64/include/boost/predef/make.h:
 
-/opt/homebrew/include/boost/asio/detail/type_traits.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/filtering_cancellation_slot.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_assignable.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/spinlock_pool.hpp:
 
-/opt/homebrew/include/boost/asio/detail/timer_scheduler_fwd.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/throw_error.ipp:
 
-/opt/homebrew/include/boost/intrusive/pointer_rebind.hpp:
+C:/msys64/ucrt64/include/boost/config/detail/cxx_composite.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/handshake_op.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/strand_service.ipp:
 
-/opt/homebrew/include/boost/asio/execution/relationship.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throw.h:
 
-/opt/homebrew/include/boost/asio/detail/timer_scheduler.hpp:
+C:/msys64/ucrt64/include/synchapi.h:
 
-/opt/homebrew/include/boost/beast/core/detail/buffers_range_adaptor.hpp:
+C:/msys64/ucrt64/include/boost/asio/connect.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/geometric_distribution.h:
+C:/msys64/ucrt64/include/boost/beast/core/file_stdio.hpp:
 
-/opt/homebrew/include/boost/asio/detail/timer_queue_set.hpp:
+C:/msys64/ucrt64/include/boost/asio/execution/impl/bad_executor.ipp:
 
-/opt/homebrew/include/boost/asio/detail/timer_queue_base.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/service_registry.hpp:
 
-/opt/homebrew/include/boost/asio/detail/thread_group.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/config.hpp:
 
-/opt/homebrew/include/boost/asio/detail/string_view.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/file_stdio.ipp:
 
-/opt/homebrew/include/boost/asio/detail/strand_service.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/win32_unicode_path.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/flat_static_buffer.ipp:
+C:/msys64/ucrt64/include/boost/asio/detail/reactor.hpp:
 
-/opt/homebrew/include/boost/asio/detail/static_mutex.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_relops.h:
 
-/opt/homebrew/include/boost/asio/detail/socket_ops.hpp:
+C:/msys64/ucrt64/include/pthread_time.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/atomic:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/resolver_service_base.ipp:
 
-/opt/homebrew/include/boost/asio/detail/signal_blocker.hpp:
+C:/msys64/ucrt64/include/pshpack1.h:
 
-/opt/homebrew/include/boost/asio/detail/service_registry.hpp:
+C:/msys64/ucrt64/include/boost/is_placeholder.hpp:
 
-/opt/homebrew/include/boost/asio/detail/scheduler_thread_info.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/error.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_reference_wrapper.h:
+C:/msys64/ucrt64/include/boost/container_hash/detail/hash_integral.hpp:
 
-/opt/homebrew/include/boost/asio/detail/scheduler_task.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/snprintf.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_nth_element.h:
+C:/msys64/ucrt64/include/_bsd_types.h:
 
-/opt/homebrew/include/boost/asio/detail/scheduler_operation.hpp:
+C:/msys64/ucrt64/include/openssl/x509_vfy.h:
 
-/opt/homebrew/include/boost/asio/detail/resolver_service_base.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/max_size_type.h:
 
-/opt/homebrew/include/boost/asio/detail/resolver_service.hpp:
+C:/msys64/ucrt64/include/boost/config.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/bind_handler.hpp:
+C:/msys64/ucrt64/include/namespaceapi.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site:
+C:/msys64/ucrt64/include/boost/asio/detail/keyword_tss_ptr.hpp:
 
-/opt/homebrew/include/boost/asio/detail/resolve_query_op.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/multi_buffer.hpp:
 
-/opt/homebrew/include/boost/asio/detail/resolve_op.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/posix_thread.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/any:
+C:/msys64/ucrt64/include/jobapi.h:
 
-/opt/homebrew/include/boost/asio/detail/reactor_op.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/verb.ipp:
 
-/opt/homebrew/include/boost/asio/detail/reactor.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/buffers_cat.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_set_difference.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_service_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_convertible.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_wait_op.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/system_executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hyperbolic_functions.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sm3intrin.h:
 
-/opt/homebrew/include/boost/asio/detail/reactive_socket_service_base.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/stream.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_socket_service.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/buffered_read_stream.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_socket_recvmsg_op.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/interop_category.hpp:
 
-/opt/homebrew/include/boost/beast/http/detail/basic_parser.ipp:
+C:/msys64/ucrt64/include/boost/asio/write.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/clamp_to_integral.h:
+C:/msys64/ucrt64/include/boost/move/iterator.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_socket_recvfrom_op.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_destructible.hpp:
 
-/opt/homebrew/include/boost/move/algo/detail/heap_sort.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/value_functors.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/thread.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/bind_continuation.hpp:
 
-/opt/homebrew/include/boost/asio/detail/thread_info_base.hpp:
+C:/msys64/ucrt64/include/boost/asio/traits/equality_comparable.hpp:
 
-/opt/homebrew/include/boost/asio/detail/recycling_allocator.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_left_shift_assign.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_socket_connect_op.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/handler_tracking.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_any_of.h:
+C:/msys64/ucrt64/include/boost/asio/detail/handler_alloc_helpers.hpp:
 
-/opt/homebrew/include/boost/asio/detail/push_options.hpp:
+C:/msys64/ucrt64/include/boost/core/detail/static_assert.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h:
+C:/msys64/ucrt64/include/boost/asio/detail/tss_ptr.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/unique_lock.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++allocator.h:
 
-/opt/homebrew/include/boost/asio/detail/posix_static_mutex.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_trivial_copy.hpp:
 
-/opt/homebrew/include/boost/asio/detail/posix_signal_blocker.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/pcg.hpp:
 
-/opt/homebrew/include/boost/config/pragma_message.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/thread_context.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min_element.h:
+C:/msys64/ucrt64/include/boost/asio/detail/string_view.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/netinet/tcp.h:
+C:/msys64/ucrt64/include/boost/beast/http/impl/serializer.hpp:
 
-/opt/homebrew/include/boost/beast/core/role.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/deadline_timer_service.hpp:
 
-/opt/homebrew/include/boost/asio/detail/pop_options.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/tuple.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/std_abs.h:
 
-/opt/homebrew/include/boost/beast/core/impl/buffers_suffix.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/fd_set_adapter.hpp:
 
-/opt/homebrew/include/boost/asio/detail/null_event.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/executor_function.hpp:
 
-/opt/homebrew/include/boost/asio/detail/noncopyable.hpp:
+C:/msys64/ucrt64/include/_mingw_off_t.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/next.h:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/gamma.tcc:
 
-/opt/homebrew/include/boost/beast/core/detail/filtering_cancellation_slot.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/dependent_type.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/regular.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/win_iocp_io_context.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ranges:
+C:/msys64/ucrt64/include/boost/container/detail/placement_new.hpp:
 
-/opt/homebrew/include/boost/asio/execution/occupancy.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/temporary_buffer.hpp:
 
-/opt/homebrew/include/boost/asio/execution/invocable_archetype.hpp:
+C:/msys64/ucrt64/include/boost/asio/execution/context_as.hpp:
 
-/opt/homebrew/include/boost/asio/detail/mutex.hpp:
+C:/msys64/ucrt64/include/boost/core/pointer_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/syncstream:
+C:/msys64/ucrt64/include/boost/asio/detail/date_time_fwd.hpp:
 
-/opt/homebrew/include/boost/beast/http/empty_body_fwd.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/list_node.hpp:
 
-/opt/homebrew/include/boost/asio/detail/operation.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/varint.hpp:
 
-/opt/homebrew/include/boost/asio/detail/limits.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/cstdint.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_wctype_t.h:
+C:/msys64/ucrt64/include/boost/beast/http/impl/rfc7230.ipp:
 
-/opt/homebrew/include/boost/asio/detail/initiation_base.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/static_mutex.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_element.h:
+C:/msys64/ucrt64/include/boost/asio/detail/wait_handler.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/strand_executor_service.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream_print.h:
 
-/opt/homebrew/include/boost/asio/detail/impl/socket_ops.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/allocator.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/service_registry.hpp:
+C:/msys64/ucrt64/include/errhandlingapi.h:
 
-/opt/homebrew/include/boost/asio/traits/static_query.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/assert.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/make_projected.h:
+C:/msys64/ucrt64/include/boost/asio/execution/bad_executor.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/resolver_thread_pool.ipp:
+C:/msys64/ucrt64/include/boost/asio/ssl/detail/read_op.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/reactive_socket_service_base.ipp:
+C:/msys64/ucrt64/include/boost/endian/detail/is_integral.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_not_equal_to.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/value_init.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/pthread/pthread_impl.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxneconvertintrin.h:
 
-/opt/homebrew/include/boost/asio/detail/impl/posix_thread.ipp:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_operation.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/tuple.h:
+C:/msys64/ucrt64/include/boost/asio/detail/concurrency_hint.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/buffer_sequence_adapter.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/buffers_range_adaptor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lower_bound.h:
+C:/msys64/ucrt64/include/boost/asio/detail/socket_option.hpp:
 
-/opt/homebrew/include/boost/asio/detail/handler_type_requirements.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/win_fd_set_adapter.hpp:
 
-/opt/homebrew/include/boost/container/detail/variadic_templates_tools.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/op_queue.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/experimental.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/read.hpp:
 
-/opt/homebrew/include/boost/asio/detail/handler_cont_helpers.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/initiate_defer.hpp:
 
-/opt/homebrew/include/boost/asio/traits/execute_member.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/wrapped_handler.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/pipe_select_interrupter.ipp:
+C:/msys64/ucrt64/include/boost/asio/execution/inline_exception_handling.hpp:
 
-/opt/homebrew/include/boost/asio/detail/handler_alloc_helpers.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/pmmintrin.h:
 
-/opt/homebrew/include/boost/asio/detail/functional.hpp:
+C:/msys64/ucrt64/include/heapapi.h:
 
-/opt/homebrew/include/boost/asio/detail/fenced_block.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/add_rvalue_reference.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/detail/local_counted_base.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_base_and_derived.hpp:
 
-/opt/homebrew/include/boost/asio/detail/executor_op.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_multiset.h:
 
-/opt/homebrew/include/boost/asio/detail/dependent_type.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/string.ipp:
 
-/opt/homebrew/include/boost/intrusive/bs_set_hook.hpp:
+C:/msys64/ucrt64/include/openssl/sha.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_negate.h:
+C:/msys64/ucrt64/include/fileapi.h:
 
-/opt/homebrew/include/boost/asio/detail/cstddef.hpp:
+C:/msys64/ucrt64/include/_mingw.h:
 
-/opt/homebrew/include/boost/asio/detail/conditionally_enabled_mutex.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/handler_work.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/indirectly_comparable.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/get_value_traits.hpp:
 
-/opt/homebrew/include/boost/asio/detail/conditionally_enabled_event.hpp:
+C:/msys64/ucrt64/include/interlockedapi.h:
 
-/opt/homebrew/include/boost/asio/detail/composed_work.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/ebo_functor_holder.hpp:
 
-/opt/homebrew/include/boost/asio/detail/strand_executor_service.hpp:
+D:/CppProjects/low-latency-crypto-engine/BinanceSession.cpp:
 
-/opt/homebrew/include/boost/type_traits/is_integral.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/detail/inflate_stream.ipp:
 
-/opt/homebrew/include/boost/asio/detail/bind_handler.hpp:
+C:/msys64/ucrt64/include/boost/core/detail/sp_win32_sleep.hpp:
 
-/opt/homebrew/include/boost/asio/detail/select_interrupter.hpp:
+C:/msys64/ucrt64/include/openssl/objectserr.h:
 
-/opt/homebrew/include/boost/asio/detail/base_from_completion_cond.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/memory.hpp:
 
-/opt/homebrew/include/boost/type_traits/floating_point_promotion.hpp:
+C:/msys64/ucrt64/include/boost/asio/associated_immediate_executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_strong_order_fallback.h:
+C:/msys64/ucrt64/include/boost/beast/http/detail/basic_parser.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/config.hpp:
+C:/msys64/ucrt64/include/boost/asio/basic_socket_acceptor.hpp:
 
-/opt/homebrew/include/boost/asio/detail/base_from_cancellation_state.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/ell_integral.tcc:
 
-/opt/homebrew/include/boost/beast/core/rate_policy.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/scheduler.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/money.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/std_fwd.hpp:
 
-/opt/homebrew/include/boost/asio/detail/array_fwd.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/buffers_cat.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
+C:/msys64/ucrt64/include/boost/container_hash/is_contiguous_range.hpp:
 
-/opt/homebrew/include/boost/asio/impl/cancellation_signal.ipp:
+C:/msys64/ucrt64/include/boost/asio/impl/executor.hpp:
 
-/opt/homebrew/include/boost/asio/deferred.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/completion_handler.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
+C:/msys64/ucrt64/include/boost/config/helper_macros.hpp:
 
-/opt/homebrew/include/boost/asio/defer.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/stop_token:
 
-/opt/homebrew/include/openssl/conf.h:
+C:/msys64/ucrt64/include/boost/config/platform/win32.hpp:
 
-/opt/homebrew/include/boost/beast/core/saved_handler.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/resolver_thread_pool.hpp:
 
-/opt/homebrew/include/boost/asio/coroutine.hpp:
+C:/msys64/ucrt64/include/boost/align/detail/aligned_alloc_msvc.hpp:
 
-/opt/homebrew/include/openssl/quic.h:
+C:/msys64/ucrt64/include/boost/asio/execution/blocking_adaptation.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/stable_sort.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/cldemoteintrin.h:
 
-/opt/homebrew/include/boost/asio/detail/utility.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_minus_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_copy_if.h:
+C:/msys64/ucrt64/include/boost/beast/core/read_size.hpp:
 
-/opt/homebrew/include/boost/asio/connect.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/scheduler_operation.hpp:
 
-/opt/homebrew/include/boost/asio/cancellation_state.hpp:
+C:/msys64/ucrt64/include/_mingw_secapi.h:
 
-/opt/homebrew/include/boost/asio/cancellation_signal.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++locale.h:
 
-/opt/homebrew/include/boost/asio/buffer.hpp:
+C:/msys64/ucrt64/include/boost/container_hash/detail/hash_mix.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/equal_range.h:
+C:/msys64/ucrt64/include/boost/endian/detail/order.hpp:
 
-/opt/homebrew/include/boost/asio/basic_socket.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/buffers_pair.hpp:
 
-/opt/homebrew/include/boost/asio/detail/posix_mutex.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/serializer.hpp:
 
-/opt/homebrew/include/boost/asio/async_result.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/std_category_impl.hpp:
 
-/opt/homebrew/include/boost/asio/associator.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/posix_thread.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/language.h:
+C:/msys64/ucrt64/include/boost/asio/detail/composed_work.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/buffers_adaptor.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/make_void.hpp:
 
-/opt/homebrew/include/boost/asio/any_io_executor.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/algorithm.hpp:
 
-/Users/sukantpatra/HFT_Basics_Mac/simdjson.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_classes.h:
 
 /opt/homebrew/include/boost/beast/http.hpp:
 
-/Users/sukantpatra/HFT_Basics_Mac/Parser.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/intrusive_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stddef.h:
+C:/msys64/ucrt64/include/boost/asio/impl/connect.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/limits.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/soft_mutex.hpp:
 
-/opt/homebrew/include/boost/optional/detail/optional_swap.hpp:
+C:/msys64/ucrt64/include/boost/container_hash/hash_is_avalanching.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/remainder.h:
+C:/msys64/ucrt64/include/boost/system/detail/error_category_impl.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/float.h:
+C:/msys64/ucrt64/include/c++/16.1.0/complex:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_nlink_t.h:
+C:/msys64/ucrt64/include/boost/asio/execution/blocking.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/avx512vbmi2intrin.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_dereference.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/arm_neon.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/impl/temporary_buffer.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stdarg_va_list.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/timer_queue_set.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stdarg_va_copy.h:
+C:/msys64/ucrt64/include/openssl/err.h:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stddef_size_t.h:
+C:/msys64/ucrt64/include/boost/assert/source_location.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stdarg_header_macro.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/socket_ops.ipp:
 
-/opt/homebrew/include/boost/asio/append.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/handler_type_requirements.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stdarg___gnuc_va_list.h:
+C:/msys64/ucrt64/include/boost/beast/core/buffers_suffix.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__float_infinity_nan.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_same.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/extended_grapheme_cluster_table.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/read_size.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__float_header_macro.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/buffers_generator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/repeat_view.h:
+C:/msys64/ucrt64/include/boost/asio/impl/multiple_exceptions.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_wchar.h:
+C:/msys64/ucrt64/include/boost/beast/core/buffers_to_string.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_ctype.h:
+C:/msys64/ucrt64/include/boost/asio/detail/null_event.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/refwrap.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/___wctype.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/buffer_sequence_adapter.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/wchar.h:
+C:/msys64/ucrt64/include/boost/asio/detail/conditionally_enabled_event.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/stream_traits.hpp:
 
-/opt/homebrew/include/boost/beast/core/basic_stream.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/null_event.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/unistd.h:
+C:/msys64/ucrt64/include/boost/asio/ip/detail/endpoint.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stdarg___va_copy.h:
+C:/msys64/ucrt64/include/boost/asio/ip/basic_resolver_results.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
+C:/msys64/ucrt64/include/boost/asio/execution/prefer_only.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/types.h:
+C:/msys64/ucrt64/include/boost/asio/associated_allocator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/common_iterator.h:
+C:/msys64/ucrt64/include/boost/beast/http/string_body_fwd.hpp:
 
-/opt/homebrew/include/boost/asio/basic_socket_iostream.hpp:
+C:/msys64/ucrt64/include/boost/asio/compose.hpp:
 
-/opt/homebrew/include/boost/asio/detail/assert.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/detail/rfc7230.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/ttycom.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_send_op.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_unary_minus.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxbf16intrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/time.h:
+C:/msys64/ucrt64/include/boost/container_hash/is_unordered_range.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stddef_offsetof.h:
+C:/msys64/ucrt64/include/boost/system/system_error.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stdio.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/monostate.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/counted.h:
+C:/msys64/ucrt64/include/_mingw_unicode.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/inverse_hyperbolic_functions.h:
+C:/msys64/ucrt64/include/boost/asio/ip/tcp.hpp:
 
-/opt/homebrew/include/boost/asio/detail/date_time_fwd.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/strand_service.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/trigonometric_functions.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_algo.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__std_mbstate_t.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxmovrsintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/sockio.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/streambuf_iterator.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/resource.h:
+C:/msys64/ucrt64/include/boost/beast/http/detail/basic_parser.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/qos.h:
+C:/msys64/ucrt64/include/boost/intrusive/bstree.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_size.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/sha1.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_equal.h:
+C:/msys64/ucrt64/include/boost/asio/ip/impl/address_v4.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/poll.h:
+C:/msys64/ucrt64/include/boost/asio/traits/require_member.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_default_constructible.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_uninitialized.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/mman.h:
+C:/msys64/ucrt64/include/boost/asio/detail/initiate_post.hpp:
 
-/opt/homebrew/include/boost/asio/ip/basic_resolver_iterator.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/write.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/ioccom.h:
+C:/msys64/ucrt64/include/boost/core/detail/sp_thread_sleep.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/filio.h:
+C:/msys64/ucrt64/include/boost/endian/detail/endian_reverse.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/fcntl.h:
+C:/msys64/ucrt64/include/boost/asio/composed.hpp:
 
-/opt/homebrew/include/boost/move/detail/destruct_n.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/io_control.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h:
+C:/msys64/ucrt64/include/boost/system/detail/std_category.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/cdefs.h:
+C:/msys64/ucrt64/include/debugapi.h:
 
-/opt/homebrew/include/boost/core/noinit_adaptor.hpp:
+C:/msys64/ucrt64/include/boost/core/span.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/align_val_t.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/type_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_wint_t.h:
+C:/msys64/ucrt64/include/boost/asio/detail/thread_group.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/charconv:
+C:/msys64/ucrt64/include/boost/asio/detail/win_static_mutex.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_va_list.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_s_ifmt.h:
+C:/msys64/ucrt64/include/boost/version.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uid_t.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/service.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ucontext.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/strand_service.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h:
+C:/msys64/ucrt64/include/boost/asio/associated_executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_short.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/spinlock_std_atomic.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int.h:
+C:/msys64/ucrt64/include/c++/16.1.0/chrono:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/filter_view.h:
+C:/msys64/ucrt64/include/boost/beast/core/error.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_char.h:
+C:/msys64/ucrt64/include/bemapiset.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_timespec.h:
+C:/msys64/ucrt64/include/boost/container/allocator_traits.hpp:
 
-/opt/homebrew/include/boost/beast/http/basic_file_body_fwd.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/old_win_sdk_compat.hpp:
 
-/opt/homebrew/include/boost/asio/bind_executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/is_executor.hpp:
 
-/opt/homebrew/include/boost/container_hash/hash_is_avalanching.hpp:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_counted_impl.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_time_t.h:
+C:/msys64/ucrt64/include/openssl/pem.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unwrap_range.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_recvfrom_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/year.h:
+C:/msys64/ucrt64/include/_mingw_stat64.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_suseconds_t.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/context_base.hpp:
 
-/opt/homebrew/include/boost/asio/impl/connect.hpp:
+C:/msys64/ucrt64/include/boost/asio/buffer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_socklen_t.h:
+C:/msys64/ucrt64/include/boost/beast/core/role.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_size_t.h:
+C:/msys64/ucrt64/include/boost/asio/error.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_sigset_t.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_unsigned.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_seek_set.h:
+C:/msys64/ucrt64/include/c++/16.1.0/concepts:
 
-/opt/homebrew/include/boost/beast/http/string_body_fwd.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/async_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_sa_family_t.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_reference.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/limits:
+C:/msys64/ucrt64/include/boost/asio/async_result.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_o_dsync.h:
+C:/msys64/ucrt64/include/apiset.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_null.h:
+C:/msys64/ucrt64/include/apisetcconv.h:
 
-/opt/homebrew/include/boost/asio/detail/thread_context.hpp:
+C:/msys64/ucrt64/include/boost/asio/basic_stream_socket.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxvnniintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_bounded_array.h:
+C:/msys64/ucrt64/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_mcontext.h:
+C:/msys64/ucrt64/include/boost/beast/core/buffers_adaptor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mach_port_t.h:
+C:/msys64/ucrt64/include/boost/asio/ip/bad_address_cast.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/ignore.h:
+C:/msys64/ucrt64/include/boost/asio/bind_executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_iovec_t.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/verify_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_intptr_t.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/algo_type.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/subrange.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_virtual_base_of.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int64_t.h:
+C:/msys64/ucrt64/include/boost/asio/basic_waitable_timer.hpp:
 
-/opt/homebrew/include/boost/beast/http/field.hpp:
+C:/msys64/ucrt64/include/_timeval.h:
 
-/opt/homebrew/include/boost/type_traits/copy_cv_ref.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/buffered_read_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ino_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/time_members.h:
 
-/opt/homebrew/include/boost/asio/associated_immediate_executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/basic_streambuf_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_in_port_t.h:
+C:/msys64/ucrt64/include/boost/asio/detail/base_from_completion_cond.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdlib:
+C:/msys64/ucrt64/include/boost/asio/execution.hpp:
 
-/opt/homebrew/include/boost/asio/detail/scoped_ptr.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/win_iocp_socket_service_base.ipp:
 
-/opt/homebrew/include/openssl/pemerr.h:
+C:/msys64/ucrt64/include/boost/move/detail/config_end.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/static_string.hpp:
+C:/msys64/ucrt64/include/openssl/cryptoerr.h:
 
-/opt/homebrew/include/boost/asio/basic_socket_streambuf.hpp:
+C:/msys64/ucrt64/include/openssl/async.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_in_addr_t.h:
+C:/msys64/ucrt64/include/boost/beast/http/impl/rfc7230.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discrete_distribution.h:
+C:/msys64/ucrt64/include/boost/asio/execution/executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_id_t.h:
+C:/msys64/ucrt64/include/boost/beast/http/status.hpp:
 
-/opt/homebrew/include/boost/asio/basic_streambuf_fwd.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmi2vlintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/handler_tracking.ipp:
 
-/opt/homebrew/include/boost/system/detail/error_condition.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_util.h:
 
-/opt/homebrew/include/boost/asio/impl/multiple_exceptions.ipp:
+C:/msys64/ucrt64/include/boost/asio/cancellation_state.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
+C:/msys64/ucrt64/include/boost/beast/http/impl/parser.hpp:
 
-/opt/homebrew/include/boost/type_traits/add_const.hpp:
+C:/msys64/ucrt64/include/boost/asio/config.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_zero.h:
+C:/msys64/ucrt64/include/c++/16.1.0/ext/string_conversions.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_set.h:
+C:/msys64/ucrt64/include/boost/core/noinit_adaptor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/formatfwd.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_pid_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/functional_hash.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_isset.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/select_reactor.ipp:
 
-/opt/homebrew/include/boost/type_traits/has_logical_or.hpp:
+C:/msys64/ucrt64/include/openssl/srtp.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_clr.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/prng.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_sample.h:
+C:/msys64/ucrt64/include/c++/16.1.0/stdlib.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_errno_t.h:
+C:/msys64/ucrt64/include/boost/system/error_code.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ct_rune_t.h:
+C:/msys64/ucrt64/include/stdint.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_clock_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/parse_numbers.h:
 
-/opt/homebrew/include/boost/intrusive/circular_list_algorithms.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/scheduler.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fn.h:
+C:/msys64/ucrt64/include/boost/move/algo/detail/set_difference.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_blksize_t.h:
+C:/msys64/ucrt64/include/boost/asio/deferred.hpp:
 
-/opt/homebrew/include/boost/endian/detail/static_assert.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_member_function_pointer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_blkcnt_t.h:
+C:/msys64/ucrt64/include/boost/asio/traits/query_static_constexpr_member.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_primary_template.h:
+C:/msys64/ucrt64/include/boost/asio/detail/pop_options.hpp:
 
-/opt/homebrew/include/boost/asio/impl/executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/scoped_lock.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_plus.hpp:
 
-/opt/homebrew/include/boost/asio/ip/detail/endpoint.hpp:
+C:/msys64/ucrt64/include/boost/static_string/config.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_select.h:
+C:/msys64/ucrt64/include/pshpack2.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/strand_executor_service.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h:
+C:/msys64/ucrt64/include/boost/asio/detail/mutex.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_assignable.h:
+C:/msys64/ucrt64/include/boost/asio/detail/initiation_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_types.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/clzerointrin.h:
 
-/opt/homebrew/include/boost/asio/detail/handler_tracking.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/backward/binders.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_mutex.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/reverse_iterator.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/weak_ptr.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/bind_handler.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stddef_wchar_t.h:
+C:/msys64/ucrt64/include/_mingw_stdarg.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vp2intersectvlintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_endian.h:
+C:/msys64/ucrt64/include/boost/optional/bad_optional_access.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/__endian.h:
+C:/msys64/ucrt64/include/boost/asio/execution/mapping.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/wchar.h:
+C:/msys64/ucrt64/include/boost/asio/detail/chrono.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdlib.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_min_element.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/accumulate.h:
+C:/msys64/ucrt64/include/boost/container/detail/pair.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdint.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_negate.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/signal.h:
+C:/msys64/ucrt64/include/boost/asio/detail/operation.hpp:
 
-/opt/homebrew/include/boost/asio/ip/impl/address_v4.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/system_context.ipp:
 
 /Users/sukantpatra/HFT_Basics_Mac/Metrics.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sched.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_stdlib.h:
+C:/msys64/ucrt64/include/c++/16.1.0/optional:
 
-/opt/homebrew/include/boost/container/detail/copy_move_algo.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/io_object_impl.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stddef.h:
+C:/msys64/ucrt64/include/boost/asio/executor_work_guard.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/pthread/sched.h:
+C:/msys64/ucrt64/include/boost/asio/impl/config.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_symbol_aliasing.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_pointer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_binary_search.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_cmp.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/poll.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/new_throw.h:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stddef_max_align_t.h:
+C:/msys64/ucrt64/include/boost/asio/detail/reactor_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/nl_types.h:
+C:/msys64/ucrt64/include/boost/predef/platform/windows_runtime.h:
 
-/opt/homebrew/include/boost/endian/detail/order.hpp:
+C:/msys64/ucrt64/include/boost/asio/traits/prefer_member.hpp:
 
-/opt/homebrew/include/boost/asio/detail/tss_ptr.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/bstree_algorithms_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/netinet6/in6.h:
+C:/msys64/ucrt64/include/boost/asio/detail/hash_map.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/error.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_logical_and.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/netdb.h:
+C:/msys64/ucrt64/include/boost/asio/io_context_strand.hpp:
 
-/opt/homebrew/include/boost/endian/detail/endian_load.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_unscoped_enum.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/net/net_kev.h:
+C:/msys64/ucrt64/include/c++/16.1.0/semaphore:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/arm/_structs.h:
+C:/msys64/ucrt64/include/boost/type_traits/remove_pointer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/net/if_var.h:
+C:/msys64/ucrt64/include/boost/utility/string_view_fwd.hpp:
 
-/opt/homebrew/include/openssl/pkcs7err.h:
+C:/msys64/ucrt64/include/boost/asio/detail/reactor_op_queue.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/net/if.h:
+C:/msys64/ucrt64/include/boost/predef/platform/android.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:
+C:/msys64/ucrt64/include/boost/asio/detail/recycling_allocator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/uio.h:
+C:/msys64/ucrt64/include/boost/predef/detail/os_detected.h:
 
-/opt/homebrew/include/boost/beast/core/detail/string.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/resolve_endpoint_op.hpp:
 
-/opt/homebrew/include/boost/asio/detail/chrono.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_default_constructible.hpp:
 
-/opt/homebrew/include/boost/asio/detail/event.hpp:
+C:/msys64/ucrt64/include/boost/asio/cancellation_type.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/is_stateful_value_traits.hpp:
+C:/msys64/ucrt64/include/threadpoolapiset.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/wrap_iter.h:
+C:/msys64/ucrt64/include/boost/system/system_category.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_ptrcheck.h:
+C:/msys64/ucrt64/include/openssl/stack.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc_type.h:
+C:/msys64/ucrt64/include/boost/asio/execution/occupancy.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/types.h:
+C:/msys64/ucrt64/include/boost/asio/detail/resolve_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/win_event.ipp:
 
-/opt/homebrew/include/boost/asio/detail/socket_types.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/workaround.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/limits.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_signed.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/align.h:
+C:/msys64/ucrt64/include/boost/asio/detail/initiate_dispatch.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_types.h:
+C:/msys64/ucrt64/include/boost/asio/dispatch.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_posix_vdisable.h:
+C:/msys64/ucrt64/include/boost/beast/http/detail/rfc7230.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_param.h:
+C:/msys64/ucrt64/include/boost/asio/execution/invocable_archetype.hpp:
 
-/opt/homebrew/include/boost/endian/detail/is_trivially_copyable.hpp:
+C:/msys64/ucrt64/include/boost/asio/execution/outstanding_work.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_is_sorted_until.h:
+C:/msys64/ucrt64/include/c++/16.1.0/unordered_map:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/arm_vector_types.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/service_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/machine/_structs.h:
+C:/msys64/ucrt64/include/boost/beast/http/message.hpp:
 
-/opt/homebrew/include/boost/type_traits/copy_cv.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/detail/base64.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/locale.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/uncast.hpp:
 
-/opt/homebrew/include/boost/none_t.hpp:
+C:/msys64/ucrt64/include/boost/winapi/basic_types.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/pthread/qos.h:
+C:/msys64/ucrt64/include/boost/asio/detail/resolver_service.hpp:
 
-/opt/homebrew/include/boost/asio/execution/impl/bad_executor.ipp:
+C:/msys64/ucrt64/include/c++/16.1.0/backward/auto_ptr.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/arm/_OSByteOrder.h:
+C:/msys64/ucrt64/include/boost/asio/detail/scheduler_task.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/errno.h:
+C:/msys64/ucrt64/include/boost/asio/detail/consuming_buffers.hpp:
 
-/opt/homebrew/include/boost/system/detail/system_category_message.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/mask.ipp:
 
-/opt/homebrew/include/boost/core/allocator_access.hpp:
+C:/msys64/ucrt64/include/boost/asio/is_executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ctype.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/hash_bytes.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/version:
+C:/msys64/ucrt64/include/boost/asio/detail/work_dispatcher.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/vector:
+C:/msys64/ucrt64/include/boost/asio/detail/event.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/variant:
+C:/msys64/ucrt64/include/boost/asio/detail/select_reactor.hpp:
 
-/opt/homebrew/include/boost/asio/ip/impl/address_v6.ipp:
+C:/msys64/ucrt64/include/c++/16.1.0/pstl/glue_numeric_defs.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector_bool.h:
+C:/msys64/ucrt64/include/boost/asio/detail/signal_blocker.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/unordered_map:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sgxintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/typeinfo:
+C:/msys64/ucrt64/include/boost/beast/http/impl/fields.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/typeindex:
+C:/msys64/ucrt64/include/boost/optional/detail/optional_factory_support.hpp:
 
-/opt/homebrew/include/boost/beast/core/impl/async_base.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/tuple:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/hybi13.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_pre_decrement.hpp:
+C:/msys64/ucrt64/include/boost/core/exchange.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/utility:
+C:/msys64/ucrt64/include/boost/predef/platform/cloudabi.h:
 
-/opt/homebrew/include/boost/beast/core/impl/read_size.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/hybi13.ipp:
 
-/opt/homebrew/include/boost/container/detail/workaround.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_class.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/thread:
+C:/msys64/ucrt64/include/boost/asio/detail/socket_types.hpp:
 
-/opt/homebrew/include/boost/mp11/version.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/wbnoinvdintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/system_error:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/exception.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/streambuf:
+C:/msys64/ucrt64/include/boost/asio/detail/fenced_block.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stop_token:
+C:/msys64/ucrt64/include/boost/asio/handler_continuation_hook.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_pointer.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/resolve_query_op.hpp:
 
-/opt/homebrew/include/boost/asio/dispatch.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/io_context.hpp:
 
-/opt/homebrew/include/boost/move/detail/std_ns_end.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/error.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdlib.h:
+C:/msys64/ucrt64/include/boost/asio/detail/thread_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/statically_widen.h:
+C:/msys64/ucrt64/include/boost/asio/execution/relationship.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdint.h:
+C:/msys64/ucrt64/include/boost/beast/core/bind_handler.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/to_underlying.h:
+C:/msys64/ucrt64/include/boost/type_traits/copy_cv.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stack:
+C:/msys64/ucrt64/include/boost/asio/execution/any_executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream:
+C:/msys64/ucrt64/include/boost/winapi/error_handling.hpp:
 
-/opt/homebrew/include/boost/system/detail/errc.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/std_fenced_block.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mbstate_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/type_traits:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int16_t.h:
+C:/msys64/ucrt64/include/boost/asio/detail/thread.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/set:
+C:/msys64/ucrt64/include/boost/asio/detail/winsock_init.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/semaphore:
+C:/msys64/ucrt64/include/boost/shared_ptr.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_copy_if.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/error.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ratio:
+C:/msys64/ucrt64/include/c++/16.1.0/any:
 
-/opt/homebrew/include/boost/config/workaround.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/throw_error.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/ptrcheck.h:
+C:/msys64/ucrt64/include/boost/asio/defer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/random:
+C:/msys64/ucrt64/include/boost/asio/impl/any_io_executor.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/queue:
+C:/msys64/ucrt64/include/boost/asio/cancellation_signal.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ostream:
+C:/msys64/ucrt64/include/boost/beast/http/fields.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
+C:/msys64/ucrt64/include/boost/asio/execution/allocator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/optional:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/predefined_ops.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
+C:/msys64/ucrt64/include/boost/describe/detail/cx_streq.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/numeric:
+C:/msys64/ucrt64/include/boost/asio/detail/wait_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/new:
+C:/msys64/ucrt64/include/boost/beast/http/impl/read.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_event.hpp:
 
-/opt/homebrew/include/boost/container/detail/flat_tree.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/atomic_word.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex:
+C:/msys64/ucrt64/include/boost/asio/detail/handler_cont_helpers.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/error.hpp:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_count.hpp:
 
-/opt/homebrew/include/boost/asio/traits/query_free.hpp:
+C:/msys64/ucrt64/include/boost/asio/associator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/math.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_io_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/latch:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_null_buffers_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iterator:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mmintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iosfwd:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_accept_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/equal.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/is_invocable.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ios:
+C:/msys64/ucrt64/include/boost/align/aligned_alloc.hpp:
 
-/opt/homebrew/include/boost/is_placeholder.hpp:
+C:/msys64/ucrt64/include/boost/asio/unyield.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/initializer_list:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_copy_if.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/forward_list:
+C:/msys64/ucrt64/include/boost/asio/traits/static_query.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/fdim.h:
+C:/msys64/ucrt64/include/boost/type_traits/alignment_of.hpp:
 
-/opt/homebrew/include/boost/asio/impl/system_context.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/socket_ops.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/winsock_init.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/filesystem:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_service.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/execution:
+C:/msys64/ucrt64/include/boost/container/detail/next_capacity.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/exception:
+C:/msys64/ucrt64/include/boost/type_traits/copy_cv_ref.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/errno.h:
+C:/msys64/ucrt64/include/boost/beast/http.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/deque:
+C:/msys64/ucrt64/include/boost/beast/core/detail/stream_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_string.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/intcmp.h:
 
-/opt/homebrew/include/boost/intrusive/detail/hook_traits.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/make_printable.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cwchar:
+C:/msys64/ucrt64/include/boost/beast/core/detect_ssl.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstring:
+C:/msys64/ucrt64/include/boost/move/detail/iterator_traits.hpp:
 
-/opt/homebrew/include/boost/system/generic_category.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/new_except.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdint:
+C:/msys64/ucrt64/include/boost/move/detail/meta_utils.hpp:
 
-/opt/homebrew/include/boost/asio/impl/config.ipp:
+C:/msys64/ucrt64/include/boost/asio/detail/timer_queue.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/compare:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/pmd_extension.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/strand_service.ipp:
+C:/msys64/ucrt64/include/boost/asio/detail/limits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath:
+C:/msys64/ucrt64/include/boost/asio/execution_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/clocale:
+C:/msys64/ucrt64/include/boost/asio/executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/chrono:
+C:/msys64/ucrt64/include/boost/beast/http/verb.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cfloat:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/lzcntintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cerrno:
+C:/msys64/ucrt64/include/boost/winapi/config.hpp:
 
-/opt/homebrew/include/boost/asio/io_context.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/append.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset:
+C:/msys64/ucrt64/include/boost/exception/exception.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array:
+C:/msys64/ucrt64/include/boost/intrusive/rbtree.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/static_const.hpp:
+C:/msys64/ucrt64/include/boost/asio/ssl/impl/error.ipp:
 
-/opt/homebrew/include/boost/beast/core/buffers_prefix.hpp:
+C:/msys64/ucrt64/include/boost/smart_ptr/weak_ptr.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_socket_accept_op.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/cancellation_signal.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm:
+C:/msys64/ucrt64/include/corecrt.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__verbose_trap:
+C:/msys64/ucrt64/include/boost/asio/impl/execution_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__verbose_abort:
+C:/msys64/ucrt64/include/c++/16.1.0/algorithm:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/arm_bf16.h:
+C:/msys64/ucrt64/include/boost/mp11/bind.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/inout_ptr.h:
+C:/msys64/ucrt64/include/boost/beast/ssl/ssl_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/merge.h:
+C:/msys64/ucrt64/include/boost/asio/impl/io_context.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/swap.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/buffers_prefix.hpp:
 
-/opt/homebrew/include/boost/endian/detail/endian_reverse.hpp:
+C:/msys64/ucrt64/include/boost/asio/basic_socket_iostream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/erase.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/static_string.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/comparison.h:
+C:/msys64/ucrt64/include/boost/asio/impl/system_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/unreachable.h:
+C:/msys64/ucrt64/include/boost/asio/detail/thread_info_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/swap.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/make_shared.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/scope_guard.h:
+C:/msys64/ucrt64/include/boost/config/pragma_message.hpp:
 
-/opt/homebrew/include/boost/asio/detail/is_buffer_sequence.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/write.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/priority_tag.h:
+C:/msys64/ucrt64/include/boost/asio/inline_executor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/stream_impl.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/no_destroy.h:
+C:/msys64/ucrt64/include/boost/beast/core/file.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/move.h:
+C:/msys64/ucrt64/include/boost/asio/traits/static_require.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__stop_token/stop_source.h:
+C:/msys64/ucrt64/include/boost/asio/ip/address_v6.hpp:
 
-/opt/homebrew/include/boost/asio/traits/require_member.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/impl/fields.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_time.h:
+C:/msys64/ucrt64/include/boost/predef/platform/windows_desktop.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/is_valid_range.h:
+C:/msys64/ucrt64/include/boost/intrusive/set_hook.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/variant.hpp:
+C:/msys64/ucrt64/include/boost/asio/io_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/operations.h:
+C:/msys64/ucrt64/include/boost/winapi/character_code_conversion.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/integer_sequence.h:
+C:/msys64/ucrt64/include/boost/beast/http/detail/chunk_encode.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/appleapiopts.h:
+C:/msys64/ucrt64/include/boost/asio/ip/address.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/climits:
+C:/msys64/ucrt64/include/boost/asio/ip/address_v4.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/in_place.h:
+C:/msys64/ucrt64/include/boost/io/detail/ostream_guard.hpp:
 
-/Users/sukantpatra/HFT_Basics_Mac/simdjson.cpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/strand_executor_service.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__debug_utils/strict_weak_ordering_check.h:
+C:/msys64/ucrt64/include/boost/system/detail/system_category_impl.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/buffer.hpp:
+C:/msys64/ucrt64/include/boost/beast/zlib/deflate_stream.hpp:
 
-/opt/homebrew/include/boost/mp11/detail/mp_list_v.hpp:
+C:/msys64/ucrt64/include/boost/asio/ip/basic_resolver_query.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward.h:
+C:/msys64/ucrt64/include/boost/asio/ip/basic_endpoint.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/empty.h:
+C:/msys64/ucrt64/include/boost/asio/ip/basic_resolver.hpp:
 
-/opt/homebrew/include/boost/asio/steady_timer.hpp:
+C:/msys64/ucrt64/include/boost/asio/prefer.hpp:
 
-/opt/homebrew/include/boost/asio/execution/blocking.hpp:
+C:/msys64/ucrt64/include/boost/asio/ip/basic_resolver_iterator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_like.h:
+C:/msys64/ucrt64/include/boost/container_hash/detail/hash_tuple_like.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/element_count.h:
+C:/msys64/ucrt64/include/c++/16.1.0/iosfwd:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/declval.h:
+C:/msys64/ucrt64/include/boost/beast/zlib/detail/bitstream.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/clamp.hpp:
+C:/msys64/ucrt64/include/boost/endian/conversion.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/functional.h:
+C:/msys64/ucrt64/include/boost/optional/optional.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/runetype.h:
+C:/msys64/ucrt64/include/boost/asio/traits/require_free.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/concepts.h:
+C:/msys64/ucrt64/include/boost/container_hash/hash.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/convert_to_integral.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/utf8_checker.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/shift_right.h:
+C:/msys64/ucrt64/include/boost/beast/zlib/detail/deflate_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/as_const.h:
+C:/msys64/ucrt64/include/boost/asio/detail/call_stack.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/underlying_type.h:
+C:/msys64/ucrt64/include/boost/predef/platform/windows_phone.h:
 
-/opt/homebrew/include/openssl/conftypes.h:
+C:/msys64/ucrt64/include/boost/beast/http/buffer_body.hpp:
 
-/opt/homebrew/include/boost/config/detail/select_stdlib_config.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/timer_scheduler_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_context.h:
+C:/msys64/ucrt64/include/boost/container_hash/hash_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/type_list.h:
+C:/msys64/ucrt64/include/boost/container_hash/is_described_class.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/strip_signature.h:
+C:/msys64/ucrt64/include/sal.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h:
+C:/msys64/ucrt64/include/boost/asio/ip/impl/address_v4.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/result_of.h:
+C:/msys64/ucrt64/include/boost/container_hash/is_range.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/support/bsd_like.h:
+C:/msys64/ucrt64/include/boost/system/detail/system_category_condition_win32.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/bit_width.h:
+C:/msys64/ucrt64/include/boost/asio/ip/impl/address_v6.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_volatile.h:
+C:/msys64/ucrt64/include/boost/core/allocator_access.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ctime:
+C:/msys64/ucrt64/include/boost/predef/platform.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_pointer.h:
+C:/msys64/ucrt64/include/boost/core/checked_delete.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
+C:/msys64/ucrt64/include/boost/core/data.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_remove.h:
+C:/msys64/ucrt64/include/boost/core/detail/assert.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/hardening.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/syslimits.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/out_ptr.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_thread_info.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_cvref.h:
+C:/msys64/ucrt64/include/boost/container_hash/is_tuple_like.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/support/c11.h:
+C:/msys64/ucrt64/include/boost/core/detail/is_same.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_cv.h:
+C:/msys64/ucrt64/include/boost/predef/platform/mingw64.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
+C:/msys64/ucrt64/include/boost/asio/detail/select_interrupter.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find.h:
+C:/msys64/ucrt64/include/boost/core/detail/string_view.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
+C:/msys64/ucrt64/include/sec_api/wchar_s.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_gid_t.h:
+C:/msys64/ucrt64/include/boost/core/empty_value.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/reference_constructs_from_temporary.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/yield_k.hpp:
 
-/opt/homebrew/include/boost/asio/basic_stream_socket.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/specfun.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/negation.h:
+C:/msys64/ucrt64/include/boost/core/first_scalar.hpp:
 
-/opt/homebrew/include/boost/asio/config.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/ctype_base.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_signed.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/saved_handler.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_void.h:
+C:/msys64/ucrt64/include/boost/core/invoke_swap.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_valid_expansion.h:
+C:/msys64/ucrt64/include/boost/static_string/static_string.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_unsigned.h:
+C:/msys64/ucrt64/include/boost/core/yield_primitives.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_nothrow_constructor.hpp:
+C:/msys64/ucrt64/include/boost/predef/version_number.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_lexicographically_comparable.h:
+C:/msys64/ucrt64/include/boost/describe/bases.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_destructible.h:
+C:/msys64/ucrt64/include/boost/describe/detail/config.hpp:
 
-/opt/homebrew/include/boost/asio/executor_work_guard.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/pack_options.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/allocator.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/mutex.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_move.h:
+C:/msys64/ucrt64/include/boost/describe/detail/void_t.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_copyable.h:
+C:/msys64/ucrt64/include/boost/detail/workaround.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivial.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/flat_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_standard_layout.h:
+C:/msys64/ucrt64/include/boost/enable_shared_from_this.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/throw_error.ipp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_string.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/rel_ops.h:
+C:/msys64/ucrt64/include/boost/container/detail/is_container.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_signed.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/saved_handler.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_scalar.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_wait_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_same.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_object.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/subrange.h:
+C:/msys64/ucrt64/include/boost/endian/detail/endian_store.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_replaceable.h:
+C:/msys64/ucrt64/include/boost/endian/detail/intrinsic.hpp:
 
-/opt/homebrew/include/openssl/tls1.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/workaround.hpp:
 
-/opt/homebrew/include/boost/beast/core/file_stdio.hpp:
+C:/msys64/ucrt64/include/boost/endian/detail/is_scoped_enum.hpp:
 
-/opt/homebrew/include/boost/asio/error.hpp:
+D:/CppProjects/low-latency-crypto-engine/Parser.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/default_header_holder.hpp:
+C:/msys64/ucrt64/include/sysinfoapi.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_32_64_or_128_bit.h:
+C:/msys64/ucrt64/include/boost/asio/detail/functional.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_pointer.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_construct.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_pod.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_classes.tcc:
 
-/opt/homebrew/include/boost/beast/core/detail/tuple.hpp:
+C:/msys64/ucrt64/include/boost/endian/detail/is_trivially_copyable.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/make_shared_array.hpp:
+C:/msys64/ucrt64/include/sec_api/sys/timeb_s.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_destructible.h:
+C:/msys64/ucrt64/include/boost/asio/steady_timer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/desugars_to.h:
+C:/msys64/ucrt64/include/boost/intrusive/bs_set_hook.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__charconv/traits.h:
+C:/msys64/ucrt64/include/boost/intrusive/circular_list_algorithms.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/kqueue_reactor.ipp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/algorithm.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/escaped_output_table.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/array_initializer.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_nothrow_move_constructible.hpp:
+C:/msys64/ucrt64/include/boost/asio/impl/deferred.hpp:
 
-/opt/homebrew/include/boost/container_hash/hash.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/assert.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_generate_n.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_timed_wait.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/config_begin.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_member_pointer.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/memory_resource.h:
 
-/opt/homebrew/include/boost/asio/detail/scoped_lock.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/default_header_holder.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_weak_order_fallback.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/empty_node_checker.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_literal_type.h:
+C:/msys64/ucrt64/include/qos.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/dangling.h:
+C:/msys64/ucrt64/include/openssl/dh.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_fundamental.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/flat_buffer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_is_heap_until.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_const.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/empty.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/equal_to_value.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_all_of.h:
+C:/msys64/ucrt64/include/c++/16.1.0/tr1/modified_bessel_func.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_function.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/detail/frame.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/sstream.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/local_counted_base.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/equal_to_value.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/generic_hook.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
+C:/msys64/ucrt64/include/winnetwk.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/find_index.h:
+C:/msys64/ucrt64/include/winbase.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_empty.h:
+C:/msys64/ucrt64/include/boost/move/detail/config_begin.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/utc_clock.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets_nonio.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/logarithms.h:
+C:/msys64/ucrt64/include/c++/16.1.0/typeindex:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_union.h:
+C:/msys64/ucrt64/include/c++/16.1.0/exception:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/iiterator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
+C:/msys64/ucrt64/include/boost/intrusive/list_hook.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_virtual_destructor.hpp:
+C:/msys64/ucrt64/include/openssl/pkcs7err.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_compound.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/select_reactor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/compose.h:
+C:/msys64/ucrt64/include/boost/mp11/integral.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/is_stateful_value_traits.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_null_buffers_op.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/is_contiguous_container.hpp:
 
-/opt/homebrew/include/boost/asio/detail/work_dispatcher.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/iterator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator_base_funcs.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_relocatable.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/key_nodeptr_comp.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_array.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/memoryfwd.h:
 
-/opt/homebrew/include/boost/beast/websocket/detail/pmd_extension.hpp:
+C:/msys64/ucrt64/include/openssl/comperr.h:
 
-/opt/homebrew/include/boost/beast/core.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/integral_constant.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/list_iterator.hpp:
 
-/opt/homebrew/include/boost/core/enable_if.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/minimal_pair_header.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/auto_cast.h:
+C:/msys64/ucrt64/include/openssl/conferr.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min_max_result.h:
+C:/msys64/ucrt64/include/corecrt_wctype.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/integer_traits.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/mpl.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/node_cloner_disposer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_filesec_t.h:
+C:/msys64/ucrt64/include/boost/predef/os/windows.h:
 
-/opt/homebrew/include/boost/asio/detail/initiate_post.hpp:
+C:/msys64/ucrt64/include/ctype.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/extent.h:
+C:/msys64/ucrt64/include/basetsd.h:
 
-/opt/homebrew/include/openssl/ec.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/node_holder.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/datasizeof.h:
+C:/msys64/ucrt64/include/boost/move/detail/addressof.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/copy_cvref.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/parent_from_member.hpp:
 
-/opt/homebrew/include/boost/asio/detail/non_const_lvalue.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/rbtree_node.hpp:
 
-/opt/homebrew/include/boost/beast/core/tcp_stream.hpp:
+C:/msys64/ucrt64/include/wincon.h:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__float_float.h:
+C:/msys64/ucrt64/include/boost/beast/zlib/detail/inflate_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/size_holder.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/conjunction.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/tree_value_compare.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
+C:/msys64/ucrt64/include/boost/intrusive/link_mode.hpp:
 
-/opt/homebrew/include/openssl/engine.h:
+C:/msys64/ucrt64/include/boost/intrusive/list.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/conditional.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_fundamental.hpp:
 
-/Users/sukantpatra/HFT_Basics_Mac/main.cpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_wait.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/jthread.h:
+C:/msys64/ucrt64/include/boost/intrusive/options.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/year_month_weekday.h:
+C:/msys64/ucrt64/include/boost/intrusive/parent_from_member.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_pointer.h:
+C:/msys64/ucrt64/include/boost/intrusive/pointer_rebind.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/detail/sp_type_traits.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/pointer_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_find_if.h:
+C:/msys64/ucrt64/include/boost/asio/ssl/error.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/file_clock.h:
+C:/msys64/ucrt64/include/boost/predef/detail/platform_detected.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_like_no_subrange.h:
+C:/msys64/ucrt64/include/boost/intrusive/set.hpp:
 
-/opt/homebrew/include/boost/asio/detail/initiate_dispatch.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/span.hpp:
 
-/opt/homebrew/include/boost/beast/http/impl/rfc7230.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_destructor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/size_t.h:
+C:/msys64/ucrt64/include/boost/io/ostream_put.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/back_insert_iterator.h:
+C:/msys64/ucrt64/include/boost/logic/tribool.hpp:
 
-/opt/homebrew/include/boost/asio/impl/execution_context.ipp:
+C:/msys64/ucrt64/include/boost/logic/tribool_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__debug_utils/sanitizers.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/deprecated_macros.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/container_traits.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/x86gprintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_indices.h:
+C:/msys64/ucrt64/include/psdk_inc/_wsa_errnos.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ino64_t.h:
+C:/msys64/ucrt64/include/openssl/quic.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/sfinae_helpers.h:
+C:/msys64/ucrt64/include/boost/make_shared.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/minmax.h:
+C:/msys64/ucrt64/include/boost/move/adl_move_swap.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_transform.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_bit_or.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_rwlock_t.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/adxintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/rank.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/static_buffer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/lazy.h:
+C:/msys64/ucrt64/include/boost/asio/associated_cancellation_slot.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree:
+C:/msys64/ucrt64/include/boost/move/detail/force_ptr.hpp:
 
-/opt/homebrew/include/boost/beast/core/buffered_read_stream.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/placement_new.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/this_thread.h:
+C:/msys64/ucrt64/include/c++/16.1.0/sstream:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/destroying_delete_t.h:
+C:/msys64/ucrt64/include/boost/endian/detail/endian_load.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_nothrow_swappable.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_bit_xor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/id.h:
+C:/msys64/ucrt64/include/openssl/dtls1.h:
 
-/opt/homebrew/include/boost/asio/detail/executor_function.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/pointer_element.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__stop_token/intrusive_shared_ptr.h:
+C:/msys64/ucrt64/include/boost/asio/detail/non_const_lvalue.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_condition.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_defer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_category.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_recv_op.hpp:
 
-/opt/homebrew/include/boost/move/algo/adaptive_sort.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/detail/has_postfix_operator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/unicode.h:
+C:/msys64/ucrt64/include/sec_api/wconio_s.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/constexpr_c_functions.h:
+C:/msys64/ucrt64/include/boost/move/detail/reverse_iterator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__stop_token/stop_state.h:
+C:/msys64/ucrt64/include/boost/move/detail/std_ns_begin.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__stop_token/atomic_unique_lock.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/resolver_thread_pool.ipp:
 
-/opt/homebrew/include/boost/system/api_config.hpp:
+C:/msys64/ucrt64/include/boost/container_hash/detail/mulx.hpp:
 
-/opt/homebrew/include/boost/asio/traits/query_static_constexpr_member.hpp:
+C:/msys64/ucrt64/include/boost/move/detail/to_raw_pointer.hpp:
 
-/opt/homebrew/include/boost/asio/execution/executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/null_signal_blocker.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/take_while_view.h:
+C:/msys64/ucrt64/include/boost/asio/system_context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min.h:
+C:/msys64/ucrt64/include/boost/move/utility_core.hpp:
 
-/opt/homebrew/include/boost/beast/http/rfc7230.hpp:
+C:/msys64/ucrt64/include/boost/winapi/access_rights.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/memory_resource.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx2intrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/split_view.h:
+C:/msys64/ucrt64/include/boost/mp11/algorithm.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
+C:/msys64/ucrt64/include/boost/container/detail/std_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_push_heap.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/config.hpp:
 
-/opt/homebrew/include/openssl/dtls1.h:
+C:/msys64/ucrt64/include/boost/type_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/size.h:
+C:/msys64/ucrt64/include/boost/utility/string_view.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_for_each.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_fold.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/single_view.h:
+C:/msys64/ucrt64/include/c++/16.1.0/ctime:
 
-/opt/homebrew/include/boost/type_traits/has_new_operator.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_trivial_assign.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/is_invocable.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/iostream:
 
-/opt/homebrew/include/boost/asio/detail/scheduler.hpp:
+C:/msys64/ucrt64/include/boost/asio/basic_socket.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/movable_box.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/align.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_none_of.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsavecintrin.h:
 
-/opt/homebrew/include/boost/io/detail/buffer_fill.hpp:
+C:/msys64/ucrt64/include/openssl/buffer.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/join_view.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_is_list.hpp:
 
-/opt/homebrew/include/boost/type_traits/decay.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/prfchwintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/istream_view.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_is_value_list.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/option.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/limits.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/strings.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_list.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/iota_view.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_map_find.hpp:
 
-/opt/homebrew/include/boost/core/span.hpp:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_remove_if.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdio.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_rename.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/from_range.h:
+C:/msys64/ucrt64/include/ktmtypes.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/enable_borrowed_range.h:
+C:/msys64/ucrt64/include/boost/asio/impl/executor.ipp:
 
-/opt/homebrew/include/boost/asio/is_executor.hpp:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_value.hpp:
 
-/opt/homebrew/include/boost/container/detail/destroyers.hpp:
+C:/msys64/ucrt64/include/openssl/e_ostime.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/elements_view.h:
+C:/msys64/ucrt64/include/boost/beast/websocket/impl/read.hpp:
 
-/opt/homebrew/include/boost/beast/core/buffers_generator.hpp:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_with_index.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/impl/error.ipp:
+C:/msys64/ucrt64/include/stdio.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/concepts.h:
+C:/msys64/ucrt64/include/imm.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_fold.hpp:
+C:/msys64/ucrt64/include/boost/mp11/function.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/void_t.h:
+C:/msys64/ucrt64/include/openssl/engineerr.h:
 
-/opt/homebrew/include/boost/asio/traits/equality_comparable.hpp:
+C:/msys64/ucrt64/include/boost/mp11/integer_sequence.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/ioctl.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/exception_disposer.hpp:
 
-/opt/homebrew/include/boost/container_hash/detail/hash_tuple_like.hpp:
+C:/msys64/ucrt64/include/boost/mp11/list.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/all.h:
+C:/msys64/ucrt64/include/boost/mp11/set.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/num.h:
+C:/msys64/ucrt64/include/boost/asio/detail/throw_exception.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale.h:
+C:/msys64/ucrt64/include/boost/mp11/utility.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/has_single_bit.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_except.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h:
+C:/msys64/ucrt64/include/boost/mp11/version.hpp:
 
-/opt/homebrew/include/boost/config.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/concept_check.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/ranlux.h:
+C:/msys64/ucrt64/include/boost/container/throw_exception.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/rbtree_node.hpp:
+C:/msys64/ucrt64/include/boost/none_t.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_types.h:
+C:/msys64/ucrt64/include/c++/16.1.0/debug/assertions.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/set_symmetric_difference.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_constructor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/normal_distribution.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xtestintrin.h:
 
-/opt/homebrew/include/boost/beast/http/impl/fields.ipp:
+C:/msys64/ucrt64/include/boost/optional.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_allocator.h:
+C:/msys64/ucrt64/include/boost/system/detail/is_same.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/non_propagating_cache.h:
+C:/msys64/ucrt64/include/winapifamily.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h:
+C:/msys64/ucrt64/include/boost/optional/detail/optional_nonmember_interface.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/select.h:
+C:/msys64/ucrt64/include/boost/asio/impl/execution_context.ipp:
 
-/opt/homebrew/include/boost/intrusive/detail/reverse_iterator.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_bit_and_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_reverse.h:
+C:/msys64/ucrt64/include/boost/optional/detail/union_optional.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_equality_comparable.h:
+C:/msys64/ucrt64/include/boost/predef/os/ios.h:
 
-/opt/homebrew/include/boost/type_traits/is_volatile.hpp:
+C:/msys64/ucrt64/include/openssl/dherr.h:
 
-/opt/homebrew/include/boost/beast/core/detail/impl/temporary_buffer.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/buffers_range.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/log2.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/async_base.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/timer_queue_set.ipp:
+C:/msys64/ucrt64/include/boost/predef/platform/ios.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string.h:
+C:/msys64/ucrt64/include/boost/predef/platform/mingw.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h:
+C:/msys64/ucrt64/include/boost/predef/platform/mingw32.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/swap_allocator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/random.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/launder.h:
+C:/msys64/ucrt64/include/boost/predef/platform/windows_server.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/knuth_b.h:
+C:/msys64/ucrt64/include/boost/move/core.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_valid.h:
+C:/msys64/ucrt64/include/boost/predef/platform/windows_store.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/pmr.h:
+C:/msys64/ucrt64/include/boost/predef/platform/windows_system.h:
 
-/opt/homebrew/include/boost/container_hash/is_described_class.hpp:
+C:/msys64/ucrt64/include/getopt.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_partition.h:
+C:/msys64/ucrt64/include/boost/predef/platform/windows_uwp.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/tai_clock.h:
+D:/CppProjects/low-latency-crypto-engine/main.cpp:
 
-/opt/homebrew/include/boost/type_traits/has_left_shift_assign.hpp:
+C:/msys64/ucrt64/include/boost/smart_ptr/allocate_shared_array.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/independent_bits_engine.h:
+C:/msys64/ucrt64/include/boost/beast/zlib/detail/deflate_stream.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/bad_weak_ptr.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_bounds.h:
+C:/msys64/ucrt64/include/boost/asio/strand.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_timeval64.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/shared_count.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/default_random_engine.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_counted_base.hpp:
 
-/opt/homebrew/include/boost/beast/http/message_generator.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vlbwintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
+C:/msys64/ucrt64/include/boost/beast/core/rate_policy.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/aligned_storage.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/unicode.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_end.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_counted_base_std_atomic.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_disable_deprecated.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/class_or_enum.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_swappable.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_t.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2bf16intrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/cauchy_distribution.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_noexcept.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_endian.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_type_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__charconv/to_chars.h:
+C:/msys64/ucrt64/include/boost/intrusive/pointer_plus_bits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/sp_typeinfo_.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/string_view.tcc:
 
-/opt/homebrew/include/boost/beast/core/detail/base64.hpp:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/spinlock.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h:
+C:/msys64/ucrt64/include/openssl/asyncerr.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/destructible.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/range_access.h:
 
-/opt/homebrew/include/openssl/crypto.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/enable_shared_from_this.hpp:
 
-/opt/homebrew/include/boost/config/helper_macros.hpp:
+C:/msys64/ucrt64/include/boost/smart_ptr/make_shared_object.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/enable_view.h:
+C:/msys64/ucrt64/include/boost/asio/version.hpp:
 
-/opt/homebrew/include/boost/core/default_allocator.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/buffer_sequence_adapter.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_reduce.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/make_unique.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_less.hpp:
 
-/opt/homebrew/include/boost/type_traits/make_signed.hpp:
+C:/msys64/ucrt64/include/boost/intrusive/detail/has_member_function_callable_with.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/destruct_n.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/clwbintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unique.h:
+C:/msys64/ucrt64/include/boost/winapi/local_memory.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h:
+C:/msys64/ucrt64/include/boost/system/api_config.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/type_traits:
+C:/msys64/ucrt64/include/boost/system/detail/cerrno.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_null_pointer.h:
+C:/msys64/ucrt64/include/boost/asio/detail/executor_op.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/day.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_pair.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_exclusive_scan.h:
+C:/msys64/ucrt64/include/boost/asio/detail/slim_mutex.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/saturation_arithmetic.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/iterator_concepts.h:
 
-/opt/homebrew/include/boost/type_traits/is_complex.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/win_iocp_io_context.hpp:
 
-/opt/homebrew/include/boost/smart_ptr/detail/yield_k.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/enable_if.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer:
+C:/msys64/ucrt64/include/boost/system/detail/generic_category_message.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/ranges_construct_at.h:
+C:/msys64/ucrt64/include/boost/system/detail/errc.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/ranges_iota.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_trivial_move_constructor.hpp:
 
-/opt/homebrew/include/boost/core/detail/string_view.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/error_category.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdarg.h:
+C:/msys64/ucrt64/include/boost/system/detail/error_code.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/can_extract_key.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_numeric.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/iota.h:
+C:/msys64/ucrt64/include/boost/system/detail/error_condition.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binder2nd.h:
+C:/msys64/ucrt64/include/boost/asio/traits/execute_member.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/reverse_view.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_algobase.h:
 
-/opt/homebrew/include/openssl/types.h:
+C:/msys64/ucrt64/include/boost/system/detail/generic_category.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_useconds_t.h:
+C:/msys64/ucrt64/include/boost/system/detail/system_category.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/inclusive_scan.h:
+C:/msys64/ucrt64/include/boost/type_traits/extent.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/minimal_pair_header.hpp:
+C:/msys64/ucrt64/include/sdkddkver.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h:
+C:/msys64/ucrt64/include/boost/cstdint.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/assume_aligned.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_move_constructible.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/random_device.h:
+C:/msys64/ucrt64/include/boost/system/detail/config.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/transform.h:
+C:/msys64/ucrt64/include/boost/system/detail/system_category_message.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/poisson_distribution.h:
+C:/msys64/ucrt64/include/c++/16.1.0/istream:
 
-/opt/homebrew/include/boost/mp11/detail/mp_front.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/throws.hpp:
 
-/opt/homebrew/include/boost/beast/core/file.hpp:
+C:/msys64/ucrt64/include/boost/system/errc.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/get.h:
+C:/msys64/ucrt64/include/boost/system/error_category.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/gcd_lcm.h:
+C:/msys64/ucrt64/include/boost/winapi/handles.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_bit_or.hpp:
+C:/msys64/ucrt64/include/pthread_unistd.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/exclusive_scan.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/semaphore_base.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_string.h:
+C:/msys64/ucrt64/include/boost/system/error_condition.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__node_handle:
+C:/msys64/ucrt64/include/boost/type_traits/negation.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/strand_executor_service.ipp:
+D:/CppProjects/low-latency-crypto-engine/simdjson.cpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/new_handler.h:
+C:/msys64/ucrt64/include/swprintf.inl:
 
-/opt/homebrew/include/boost/beast/http/type_traits.hpp:
+C:/msys64/ucrt64/include/boost/optional/detail/optional_reference_spec.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/sstream.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
+C:/msys64/ucrt64/include/boost/system/generic_category.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/interference_size.h:
+C:/msys64/ucrt64/include/boost/system/is_error_condition_enum.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/alignment_of.h:
+C:/msys64/ucrt64/include/boost/throw_exception.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_array.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/add_const.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stream_iterator.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_static_assert.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/ia32intrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ios/fpos.h:
+C:/msys64/ucrt64/include/openssl/comp.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uintptr_t.h:
+C:/msys64/ucrt64/include/boost/type_traits/add_cv.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/coroutine:
+C:/msys64/ucrt64/include/boost/type_traits/has_plus.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/range_default_formatter.h:
+C:/msys64/ucrt64/include/boost/type_traits/add_lvalue_reference.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/global_typed_new_delete.h:
+C:/msys64/ucrt64/include/boost/container/container_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/fill.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/new_allocator.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int16_t.h:
+C:/msys64/ucrt64/include/boost/type_traits/add_pointer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
+C:/msys64/ucrt64/include/boost/type_traits/add_reference.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_stdio.h:
+C:/msys64/ucrt64/include/boost/type_traits/add_volatile.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
+C:/msys64/ucrt64/include/boost/beast/core/detail/remap_post_to_defer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/iterator_operations.h:
+C:/msys64/ucrt64/include/boost/type_traits/common_type.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/copyable.h:
+C:/msys64/ucrt64/include/boost/intrusive/detail/hook_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory_resource/polymorphic_allocator.h:
+C:/msys64/ucrt64/include/boost/type_traits/conditional.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h:
+C:/msys64/ucrt64/include/boost/beast/core/basic_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare_three_way.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_copy_assignable.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h:
+C:/msys64/ucrt64/include/boost/type_traits/conjunction.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
+C:/msys64/ucrt64/include/boost/asio/detail/win_iocp_socket_connect_op.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/remap_post_to_defer.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/copy_reference.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/shared_ptr.h:
+C:/msys64/ucrt64/include/boost/type_traits/decay.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/shared_count.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_swappable.hpp:
 
-/opt/homebrew/include/openssl/lhash.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_function.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/buffer.h:
+C:/msys64/ucrt64/include/boost/type_traits/declval.hpp:
 
-/opt/homebrew/include/boost/asio/detail/config.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/detail/has_prefix_operator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__stop_token/intrusive_list_view.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxtileintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/decay.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/hashtable_policy.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/concepts.h:
+C:/msys64/ucrt64/include/boost/beast/http/detail/type_traits.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/array_initializer.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/socket_select_interrupter.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/scheduler.ipp:
+C:/msys64/ucrt64/include/boost/type_traits/detail/is_function_cxx_11.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
+C:/msys64/ucrt64/include/boost/type_traits/detail/is_swappable_cxx_11.hpp:
 
-/opt/homebrew/include/boost/type_traits/has_bit_and_assign.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/detail/mp_defer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/variant.h:
+C:/msys64/ucrt64/include/boost/type_traits/floating_point_promotion.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/binary_function.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_list.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/month_weekday.h:
+C:/msys64/ucrt64/include/boost/type_traits/function_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/array_cookie.h:
+C:/msys64/ucrt64/include/boost/type_traits/enable_if.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_empty.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_bit_and.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/modulo.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_bit_or_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/erase_if.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_bit_xor_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_complement.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/memory_resource:
+C:/msys64/ucrt64/include/boost/type_traits/has_divides.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/keylockerintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_equal_to.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_is_sorted.h:
+C:/msys64/ucrt64/include/boost/beast/core/impl/basic_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_greater.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/signal.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_greater_equal.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_reference.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/enqcmdintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/take_view.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_right_shift.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_copy_assignable.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_less_equal.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/queue.h:
+C:/msys64/ucrt64/include/boost/smart_ptr/detail/local_sp_deleter.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_base.h:
 
-/opt/homebrew/include/boost/beast/core/file_win32.hpp:
+C:/msys64/ucrt64/include/boost/system/detail/append_int.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_find.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_logical_not.hpp:
 
-/opt/homebrew/include/openssl/buffer.h:
+C:/msys64/ucrt64/include/boost/beast/http/field.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/year_month_day.h:
+C:/msys64/ucrt64/include/boost/system/is_error_code_enum.hpp:
 
-/opt/homebrew/include/boost/beast/http/fields_fwd.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_minus.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_found_result.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_modulus.hpp:
 
-/opt/homebrew/include/boost/beast/http/basic_dynamic_body_fwd.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_modulus_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/traits.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_multiplies.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/special_functions.h:
+C:/msys64/ucrt64/include/c++/16.1.0/cctype:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/global_new_delete.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/std_thread.h:
 
-/opt/homebrew/include/boost/endian/detail/intrinsic.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/has_multiplies_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/placement_new_delete.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_not_equal_to.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/three_way_comparable.h:
+C:/msys64/ucrt64/include/boost/beast/version.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hypot.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_plus_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/gamma.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_pre_decrement.hpp:
 
-/opt/homebrew/include/boost/asio/completion_condition.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/push_options.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_bvector.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/stable_partition.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_pre_increment.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/fma.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_trivial_constructor.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__charconv/to_chars_result.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_trivial_move_assign.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_like_ext.h:
+C:/msys64/ucrt64/include/c++/16.1.0/climits:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_aggregate.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_enum.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/un.h:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_list_v.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h:
+C:/msys64/ucrt64/include/boost/asio/default_completion_token.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/event.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_stateless.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/shared_mutex:
+C:/msys64/ucrt64/include/boost/type_traits/has_unary_minus.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/exponential_functions.h:
+C:/msys64/ucrt64/include/boost/type_traits/integral_constant.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/copysign.h:
+C:/msys64/ucrt64/include/boost/type_traits/intrinsics.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/node_holder.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_abstract.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/wstring_convert.h:
+C:/msys64/ucrt64/include/boost/asio/detail/socket_holder.hpp:
 
-/opt/homebrew/include/openssl/ssl3.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_arithmetic.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/detail/stream_core.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bf16vlintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/gethostuuid.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_assignable.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/pstl.h:
+C:/msys64/ucrt64/include/boost/container_hash/detail/hash_range.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/wbuffer_convert.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_base_of.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/none_of.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdarg.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/time.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_complex.hpp:
 
-/opt/homebrew/include/boost/beast/http/vector_body.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_constructible.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/support/apple.h:
+C:/msys64/ucrt64/include/openssl/cryptoerr_legacy.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/cxxabi_forced.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_replace_copy_if.h:
+C:/msys64/ucrt64/include/boost/asio/detail/scheduler_thread_info.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_rvalue_reference.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_convertible.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_final.h:
+C:/msys64/ucrt64/include/boost/core/default_allocator.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/pad_and_output.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/postypes.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/get_c_locale.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2mediaintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/functional:
+C:/msys64/ucrt64/include/boost/type_traits/is_copy_constructible.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uuid_t.h:
+C:/msys64/ucrt64/include/boost/type_traits/disjunction.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_mcontext.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_empty.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/generate_canonical.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_final.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/null_event.ipp:
+C:/msys64/ucrt64/include/boost/beast/core/impl/flat_static_buffer.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/check_grouping.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_float.hpp:
 
-/opt/homebrew/include/boost/asio/ip/address_v6.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/format:
 
-/opt/homebrew/include/boost/asio/execution/bad_executor.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/resolver_service_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory_resource/memory_resource.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_floating_point.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale:
+C:/msys64/ucrt64/include/boost/asio/ip/impl/address.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_constructible.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_function.hpp:
 
-/opt/homebrew/include/boost/asio/execution/allocator.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets_nonio.tcc:
 
-/opt/homebrew/include/boost/beast/http/impl/verb.ipp:
+C:/msys64/ucrt64/include/tvout.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/static_bounded_iter.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_integral.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/segmented_iterator.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_lvalue_reference.hpp:
 
-/opt/homebrew/include/boost/move/detail/placement_new.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_member_object_pointer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ranges_iterator_traits.h:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/service_registry.ipp:
 
-/opt/homebrew/include/boost/asio/ip/basic_resolver_entry.hpp:
+C:/msys64/ucrt64/include/boost/optional/detail/optional_hash.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/prev.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_member_pointer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/permutable.h:
+C:/msys64/ucrt64/include/fibersapi.h:
 
-/opt/homebrew/include/boost/asio/detail/impl/kqueue_reactor.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/unique_lock.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/constrained_ctypes.h:
+C:/msys64/ucrt64/include/boost/core/detail/sp_thread_pause.hpp:
 
-/opt/homebrew/include/boost/beast/websocket/impl/error.ipp:
+C:/msys64/ucrt64/include/boost/endian/detail/integral_by_size.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_noncopyable.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/rounding_functions.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_pod.hpp:
 
-/opt/homebrew/include/boost/asio/detail/array.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_rvalue_reference.hpp:
 
-/opt/homebrew/include/boost/optional.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_scalar.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max_element.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_scoped_enum.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_trivially_copyable.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_sentinel.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_move_assignable.hpp:
 
-/opt/homebrew/include/boost/asio/detail/handler_work.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/is_union.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/mergeable.h:
+C:/msys64/ucrt64/include/boost/type_traits/is_void.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_unique.h:
+C:/msys64/ucrt64/include/c++/16.1.0/pstl/glue_memory_defs.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_sync.h:
+C:/msys64/ucrt64/include/boost/type_traits/make_unsigned.hpp:
 
-/opt/homebrew/include/boost/asio/detail/reactive_socket_send_op.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/promote.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/allocate.h:
+C:/msys64/ucrt64/include/boost/system/detail/system_category_message_win32.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator_with_data.h:
+C:/msys64/ucrt64/include/boost/type_traits/rank.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_constructible.h:
+C:/msys64/ucrt64/include/boost/type_traits/remove_all_extents.hpp:
 
-/opt/homebrew/include/boost/asio/impl/io_context.ipp:
+C:/msys64/ucrt64/include/boost/mp11/detail/mp_void.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/min_max.h:
+C:/msys64/ucrt64/include/boost/type_traits/remove_bounds.hpp:
 
-/opt/homebrew/include/boost/assert.hpp:
+C:/msys64/ucrt64/include/boost/move/traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstddef:
+C:/msys64/ucrt64/include/boost/intrusive/detail/function_detector.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator.h:
+C:/msys64/ucrt64/include/boost/type_traits/remove_cv.hpp:
 
-/opt/homebrew/include/boost/type_traits/is_reference.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/remove_cv_ref.hpp:
 
-/opt/homebrew/include/boost/asio/ssl/context.hpp:
+C:/msys64/ucrt64/include/driverspecs.h:
 
-/opt/homebrew/include/boost/beast/core/buffer_traits.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_implicitly_default_constructible.h:
+C:/msys64/ucrt64/include/openssl/rsa.h:
 
-/opt/homebrew/include/openssl/opensslv.h:
+C:/msys64/ucrt64/include/boost/beast/http/impl/status.ipp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_arg_store.h:
+C:/msys64/ucrt64/include/boost/type_traits/remove_extent.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/make_tuple_types.h:
+C:/msys64/ucrt64/include/boost/type_traits/remove_volatile.hpp:
 
-/opt/homebrew/include/boost/beast/core/detail/chacha.hpp:
+C:/msys64/ucrt64/include/boost/type_traits/type_identity.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_def.h:
+C:/msys64/ucrt64/include/boost/winapi/detail/footer.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_bool.h:
+C:/msys64/ucrt64/include/securitybaseapi.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/insert_iterator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/array:
 
-/opt/homebrew/include/boost/asio/detail/object_pool.hpp:
+C:/msys64/ucrt64/include/boost/winapi/detail/header.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/deque.h:
+C:/msys64/ucrt64/include/boost/asio/detail/config.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_char_like_type.h:
+C:/msys64/ucrt64/include/boost/winapi/error_codes.hpp:
 
-/opt/homebrew/include/boost/beast/core/buffers_suffix.hpp:
+C:/msys64/ucrt64/include/boost/winapi/file_management.hpp:
 
-/opt/homebrew/include/boost/asio/detail/posix_thread.hpp:
+C:/msys64/ucrt64/include/boost/winapi/limits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/istream.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_rotate_copy.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/nested_exception.h:
 
-/opt/homebrew/include/boost/mp11/detail/mp_value.hpp:
+C:/msys64/ucrt64/include/boost/container/detail/flat_tree.hpp:
 
-/opt/homebrew/include/boost/asio/detail/impl/service_registry.ipp:
+C:/msys64/ucrt64/include/boost/winapi/overlapped.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/enable_if.h:
+C:/msys64/ucrt64/include/boost/winapi/time.hpp:
 
-/opt/homebrew/include/boost/intrusive/detail/workaround.hpp:
+C:/msys64/ucrt64/include/boost/beast/http/detail/basic_parsed_list.hpp:
 
-/opt/homebrew/include/boost/asio/detail/wait_handler.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/buffer_traits.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/concepts.h:
+C:/msys64/ucrt64/include/c++/16.1.0/atomic:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/width_estimation_table.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bit:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/algorithmfwd.h:
 
-/opt/homebrew/include/boost/asio/ip/basic_endpoint.hpp:
+C:/msys64/ucrt64/include/boost/beast/core/tcp_stream.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/support.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/alloc_traits.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/empty.h:
+C:/msys64/ucrt64/include/boost/asio/detail/service_registry.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_wchar_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/allocated_ptr.h:
 
-/opt/homebrew/include/boost/container/detail/algorithm.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_base.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iomanip:
+C:/msys64/ucrt64/include/c++/16.1.0/streambuf:
 
-/opt/homebrew/include/boost/asio/detail/resolve_endpoint_op.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_lockfree_defines.h:
 
-/opt/homebrew/include/boost/asio/io_context_strand.hpp:
+C:/msys64/ucrt64/include/boost/beast/websocket/stream_base.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/max_align_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_ios.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/gps_clock.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/unique_ptr.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_if_not.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/char_traits.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/drop_while_view.h:
+C:/msys64/ucrt64/include/ws2def.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
+C:/msys64/ucrt64/include/boost/asio/detail/global.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/chrono.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_integral.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/chrono_io.h:
 
-/opt/homebrew/include/boost/asio/detail/socket_option.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/codecvt.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/bounded_iter.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/cpp_type_traits.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_rune_t.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/cxxabi_init_exception.h:
 
-/opt/homebrew/include/boost/beast/core/detail/stream_base.hpp:
+C:/msys64/ucrt64/include/_mingw_mac.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/advance.h:
+C:/msys64/ucrt64/include/boost/asio/any_io_executor.hpp:
 
-/opt/homebrew/include/boost/beast/core/static_buffer.hpp:
+C:/msys64/ucrt64/include/boost/asio/detail/array_fwd.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__hash_table:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_defines.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ctype.h:
+C:/msys64/ucrt64/include/c++/16.1.0/system_error:
 
-/opt/homebrew/include/boost/beast/http/impl/field.ipp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_ptr.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/vector.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/functexcept.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/concepts.h:
+C:/msys64/ucrt64/include/c++/16.1.0/stdexcept:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/hashtable.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/includes.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/invoke.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/stack.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/list.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_minmax_element.h:
+C:/msys64/ucrt64/include/boost/intrusive/bstree_algorithms.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/nullptr_t.h:
+C:/msys64/ucrt64/include/boost/winapi/get_last_error.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/piecewise_constant_distribution.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_conv.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_iterator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/support.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
+C:/msys64/ucrt64/include/boost/asio/detail/scoped_ptr.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/byte.h:
+C:/msys64/ucrt64/include/boost/optional/detail/optional_common_defs.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/time_point.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/localefwd.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/ostream.h:
+C:/msys64/ucrt64/include/stringapiset.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/move.h:
 
-/opt/homebrew/include/boost/beast/core/stream_traits.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream_insert.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/queue.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/quoted_string.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/map.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/random.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/shared_ptr.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/istream.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/shared_ptr_base.h:
 
-/opt/homebrew/include/boost/system/detail/cerrno.hpp:
+C:/msys64/ucrt64/include/openssl/http.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/fstream.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/std_function.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/rotate.h:
+C:/msys64/ucrt64/include/boost/beast/http/serializer_fwd.hpp:
 
-/opt/homebrew/include/boost/type_traits/remove_cv.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/std_mutex.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/complex.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throwfwd.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/allocator.h:
 
-/opt/homebrew/include/boost/beast/core/bind_handler.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_algo.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_algobase.h:
 
-/opt/homebrew/include/boost/asio/detail/timer_queue.hpp:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vp2intersectintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_swap_ranges.h:
+C:/msys64/ucrt64/include/openssl/rand.h:
 
-/opt/homebrew/include/boost/container/detail/next_capacity.hpp:
+C:/msys64/ucrt64/include/memoryapi.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_heap.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/bit_reference.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator_base_types.h:
 
-/opt/homebrew/include/boost/type_traits/add_rvalue_reference.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_raw_storage_iter.h:
 
-/opt/homebrew/include/boost/container_hash/is_range.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_set.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/views.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_tempbuf.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__xlocale.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_tree.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint8_t.h:
+C:/msys64/ucrt64/include/boost/asio/execution/context.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit_reference:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_uninitialized.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/not_fn.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_vector.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/invoke.h:
+C:/msys64/ucrt64/include/boost/beast/zlib/zlib.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdio:
+C:/msys64/ucrt64/include/boost/asio/detail/impl/socket_select_interrupter.ipp:
 
-/opt/homebrew/include/boost/beast/core/file_base.hpp:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/streambuf.tcc:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/array.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/stringfwd.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/boyer_moore_searcher.h:
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmiintrin.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/formatter_integral.h:
+C:/msys64/ucrt64/include/boost/optional/detail/optional_select_implementation.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_seed_sequence.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/this_thread_sleep.h:
 
-/opt/homebrew/include/openssl/indicator.h:
+C:/msys64/ucrt64/include/c++/16.1.0/bits/unicode-data.h:
 
-/opt/homebrew/include/boost/asio/detail/buffer_sequence_adapter.hpp:
+C:/msys64/ucrt64/include/boost/core/ignore_unused.hpp:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temp_value.h:
+C:/msys64/ucrt64/include/boost/type_traits/has_virtual_destructor.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/ostream.h:
 

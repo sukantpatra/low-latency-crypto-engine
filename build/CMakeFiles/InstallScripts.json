@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/sukantpatra/HFT_Basics_Mac/build/cmake_install.cmake"
+		"D:/CppProjects/low-latency-crypto-engine/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

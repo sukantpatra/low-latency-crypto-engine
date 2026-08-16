@@ -123,6 +123,11 @@ void FetchBinanceSnapshot(net::io_context& ioc, ssl::context& ctx) {
 
 int main()
 {
+    #ifdef __APPLE__
+    // Only run Apple Silicon core scheduling on macOS
+    pthread_set_qos_class_self_np(QOS_CLASS_USER_INTERACTIVE, 0);
+    #endif
+    
     // 1. Create the I/O context (The Event Loop)
     boost::asio::io_context ioc;
 
