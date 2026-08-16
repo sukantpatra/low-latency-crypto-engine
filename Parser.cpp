@@ -4,7 +4,7 @@
 
 enum class OrderSide { BUY, SELL };
 
-extern void UpdateBook(OrderSide side, double price, double qty);
+extern void UpdateBook(OrderSide side, uint64_t price, double qty);
 extern uint64_t currentUpdateId;
 
 uint64_t Parser::ParseJson(const char* jsonStr, size_t length, size_t capacity)
@@ -23,14 +23,9 @@ uint64_t Parser::ParseJson(const char* jsonStr, size_t length, size_t capacity)
     for(simdjson::ondemand::array bid : doc["b"])
     {
         auto it = bid.begin();
-        std::string_view priceStr = (*it).get_string();
+        uint64_t price = Parse_fixed_point((*it).get_string());
         ++it;
-        std::string_view qtyStr = (*it).get_string();
-
-        double price;
-        std::from_chars(priceStr.data(), priceStr.data() + priceStr.size(), price);
-        double qty;
-        std::from_chars(qtyStr.data(), qtyStr.data() + qtyStr.size(), qty);
+        double qty = FastStod((*it).get_string());
         UpdateBook(OrderSide::BUY, price, qty);
         orderCount++;
     }
@@ -38,14 +33,9 @@ uint64_t Parser::ParseJson(const char* jsonStr, size_t length, size_t capacity)
     for(simdjson::ondemand::array ask : doc["a"])
     {
         auto it = ask.begin();
-        std::string_view priceStr = (*it).get_string();
+        uint64_t price = Parse_fixed_point((*it).get_string());
         ++it;
-        std::string_view qtyStr = (*it).get_string();
-
-        double price;
-        std::from_chars(priceStr.data(), priceStr.data() + priceStr.size(), price);
-        double qty;
-        std::from_chars(qtyStr.data(), qtyStr.data() + qtyStr.size(), qty);
+        double qty = FastStod((*it).get_string());
         UpdateBook(OrderSide::SELL, price, qty);
         orderCount++;
     }
@@ -62,28 +52,18 @@ void Parser::ParseSnapshotJson(std::string_view jsonStr)
         for(simdjson::ondemand::array bid : doc["bids"])
         {   
         auto it = bid.begin();
-        std::string_view priceStr = (*it).get_string();
+        uint64_t price = Parse_fixed_point((*it).get_string());
         ++it;
-        std::string_view qtyStr = (*it).get_string();
-
-        double price;
-        std::from_chars(priceStr.data(), priceStr.data() + priceStr.size(), price);
-        double qty;
-        std::from_chars(qtyStr.data(), qtyStr.data() + qtyStr.size(), qty);
+        double qty = FastStod((*it).get_string());
         UpdateBook(OrderSide::BUY, price, qty);
         }
 
         for(simdjson::ondemand::array ask : doc["asks"])
         {   
         auto it = ask.begin();
-        std::string_view priceStr = (*it).get_string();
+        uint64_t price = Parse_fixed_point((*it).get_string());
         ++it;
-        std::string_view qtyStr = (*it).get_string();
-
-        double price;
-        std::from_chars(priceStr.data(), priceStr.data() + priceStr.size(), price);
-        double qty;
-        std::from_chars(qtyStr.data(), qtyStr.data() + qtyStr.size(), qty);
+        double qty = FastStod((*it).get_string());
         UpdateBook(OrderSide::SELL, price, qty);
         }
 
@@ -93,3 +73,5 @@ void Parser::ParseSnapshotJson(std::string_view jsonStr)
         std::cerr << "Error parsing bids: " << e.what() << std::endl;
     }
 }
+
+

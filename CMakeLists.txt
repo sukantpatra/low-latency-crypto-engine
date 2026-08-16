@@ -27,7 +27,6 @@ add_executable(HFT_Basics
     simdjson.cpp 
     BinanceSession.cpp
     Parser.cpp
-    Spinlock.cpp
 )
 
 target_include_directories(HFT_Basics PRIVATE ${Boost_INCLUDE_DIRS})

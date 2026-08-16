@@ -1,4 +1,3 @@
-#include <boost/container/flat_map.hpp>
 #include <iostream>
 #include <boost/asio/io_context.hpp>
 #include <boost/asio/ssl/context.hpp>
@@ -21,8 +20,9 @@ struct OrderBookEntry
     double quantity;
     };
 
-boost::container::flat_map<double, double, std::greater<double>> bids; // Key: Price, Value: Quantity
-boost::container::flat_map<double, double, std::less<double>> asks; // Key: Price, Value: Quantity
+constexpr size_t ORDER_BOOK_DEPTH = 30000000;
+static double bids[ORDER_BOOK_DEPTH] = {0};
+static double asks[ORDER_BOOK_DEPTH] = {0};
 
 uint64_t currentUpdateId = 0;
 std::atomic<uint64_t> total_latency_ns{0};
@@ -66,8 +66,11 @@ void UILoop() {
     }
 }
 
-void UpdateBook(OrderSide side, double price, double qty)
+void UpdateBook(OrderSide side, uint64_t price, double qty)
 {
+    if (__builtin_expect(price >= ORDER_BOOK_DEPTH, 0)) [[unlikely]] {
+    return;
+    }
     switch (side) {
         case OrderSide::BUY:
             bids[price] = qty;
